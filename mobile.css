@@ -1,0 +1,369 @@
+/* ========================================
+   MOBILE.CSS - ESTILOS RESPONSIVOS
+   Aplicado para telas com largura máxima de 768px
+   ======================================== */
+
+/* ==========================================
+   TIPOGRAFIA E ELEMENTOS GERAIS
+   ========================================== */
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: 3px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+section p {
+  margin: clamp(1rem, 2.5vw, 1.5rem) 0;
+  text-align: justify;
+  color: #ccc;
+  font-size: 0.8rem;
+  line-height: 1.7;
+}
+
+section h2 {
+  color: var(--clr-primary);
+  font-size: clamp(1.5rem, 4vw, 2rem);
+  margin-bottom: 1.2rem;
+  font-weight: 600;
+  text-align: center;
+  border-bottom: 3px solid #3a3a3a;
+  padding-bottom: 0.5rem;
+}
+
+label {
+  color: var(--clr-text);
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  display: block;
+  margin: 0.5rem;
+}
+
+/* ==========================================
+   BUSCADORES
+   ========================================== */
+
+#BuscadorMedico, #BuscadorCircurgia306, #BuscadorUSG, #BuscadorTC, #BuscadorRM, 
+#BuscadorCARDIO, #BuscadorPrev, #BuscadorCura {
+  width: 100%;
+  padding: 0.6rem 1rem 0.6rem 2.5rem;
+  margin-bottom: 1.5rem;
+  border: 2px solid #3a3a3a;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  background: #2f2f2f;
+  color: var(--clr-text);
+}
+
+.search-icon {
+  position: absolute;
+  left: 15px;
+  top: 37%;
+  transform: translateY(-50%);
+  color: #999;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* ==========================================
+   BOTÕES DE COPIAR - OCULTOS NO MOBILE
+   ========================================== */
+
+.btn-copiar {
+    display: none !important;
+}
+
+.btn-mostrar-senha {
+    font-size: clamp(0.9rem, 2.5vw, 1.1rem);
+}
+
+/* ==========================================
+   CÉLULAS INTERATIVAS - COPIAR AO CLICAR
+   ========================================== */
+
+.celula-tuss,
+.celula-tasy,
+.celula-sigla,
+.celula-codigo,
+.celula-login,
+.celula-senha {
+    cursor: pointer;
+    position: relative;
+}
+
+/* Feedback visual ao tocar nas células */
+.celula-tuss:active,
+.celula-tasy:active,
+.celula-sigla:active,
+.celula-codigo:active,
+.celula-login:active,
+.celula-senha:active {
+    background: rgba(40, 167, 69, 0.2) !important;
+    transition: background 0.1s ease;
+}
+
+/* Animação de feedback de cópia */
+.copiado-mobile {
+    animation: pulso-copia 0.6s ease;
+}
+
+@keyframes pulso-copia {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.02);
+    }
+}
+
+/* Ícone sutil de toque indicando que é clicável */
+.celula-tuss::before,
+.celula-tasy::before,
+.celula-sigla::before {
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.7rem;
+    opacity: 0.3;
+    pointer-events: none;
+}
+
+/* ==========================================
+   CONTAINERS DE TABELAS
+   ========================================== */
+
+.tabela-container {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ==========================================
+   TABELA DE MÉDICOS
+   ========================================== */
+
+#tabela-medicos {
+  font-size: clamp(0.6rem, 2vw, 0.75rem);
+  min-width: 100%;
+}
+
+/* Ocultar colunas CRM e CONVÊNIOS no mobile */
+#tabela-medicos th:nth-child(3),
+#tabela-medicos td:nth-child(3),
+#tabela-medicos th:nth-child(5),
+#tabela-medicos td:nth-child(5) {
+  display: none;
+}
+
+/* Ajustar larguras das colunas visíveis */
+#tabela-medicos th:nth-child(1),
+#tabela-medicos td:nth-child(1) {
+  width: 12%;
+  padding: 0.4rem 0.2rem;
+  font-size: clamp(0.5rem, 1.8vw, 0.65rem);
+}
+
+#tabela-medicos th:nth-child(2),
+#tabela-medicos td:nth-child(2) {
+  width: 35%;
+  padding: 0.4rem 0.4rem;
+  font-size: clamp(0.5rem, 2vw, 0.7rem);
+}
+
+#tabela-medicos th:nth-child(4),
+#tabela-medicos td:nth-child(4) {
+  width: 33%;
+  padding: 0.4rem 0.4rem;
+  font-size: clamp(0.5rem, 1.8vw, 0.65rem);
+}
+
+#tabela-medicos th:nth-child(6),
+#tabela-medicos td:nth-child(6) {
+  width: 20%;
+  padding: 0.4rem 0.2rem;
+  font-size: clamp(0.5rem, 1.8vw, 0.65rem);
+}
+
+/* Ajustar padding dos headers */
+#tabela-medicos th {
+  padding: 0.5rem 0.2rem;
+  font-size: clamp(0.5rem, 2vw, 0.7rem);
+  letter-spacing: 0.2px;
+}
+
+/* Listas dentro das células */
+#tabela-medicos .lista-especialidades li,
+#tabela-medicos .lista-telefones li {
+  font-size: clamp(0.5rem, 1.8vw, 0.65rem);
+  padding: 0.03rem 0;
+  line-height: 1.3;
+}
+
+#tabela-medicos .lista-especialidades li:before,
+#tabela-medicos .lista-telefones li:before {
+  margin-right: 0.15rem;
+  font-size: clamp(0.45rem, 1.5vw, 0.55rem);
+}
+
+/* ==========================================
+   TABELAS DE EXAMES (USG, TC, RM, CARDIO)
+   ========================================== */
+
+#tabela-usg, #tabela-tc, #tabela-rm, #tabela-cardio {
+  font-size: clamp(0.65rem, 2vw, 0.8rem);
+}
+
+#tabela-usg th, #tabela-usg td,
+#tabela-tc th, #tabela-tc td,
+#tabela-rm th, #tabela-rm td,
+#tabela-cardio th, #tabela-cardio td {
+  padding: 0.5rem 0.3rem;
+  font-size: clamp(0.6rem, 2vw, 0.75rem);
+}
+
+#tabela-usg th, #tabela-tc th, #tabela-rm th, #tabela-cardio th {
+  font-size: clamp(0.6rem, 2.2vw, 0.8rem);
+  letter-spacing: 0.3px;
+}
+
+/* Coluna de códigos TUSS */
+#tabela-usg .numero-tuss,
+#tabela-tc .numero-tuss,
+#tabela-rm .numero-tuss,
+#tabela-cardio .numero-tuss {
+  font-size: clamp(0.65rem, 2vw, 0.8rem);
+  letter-spacing: 0.1rem;
+}
+
+/* ==========================================
+   TABELA PREVENTIVO
+   ========================================== */
+
+#tabela-preventivo {
+  font-size: clamp(0.6rem, 1.8vw, 0.75rem);
+}
+
+#tabela-preventivo th,
+#tabela-preventivo td {
+  padding: 0.4rem 0.2rem;
+  font-size: clamp(0.55rem, 1.8vw, 0.7rem);
+}
+
+#tabela-preventivo th {
+  font-size: clamp(0.55rem, 2vw, 0.75rem);
+  letter-spacing: 0.2px;
+}
+
+#tabela-preventivo .numero-sigla,
+#tabela-preventivo .numero-tasy,
+#tabela-preventivo .numero-tuss {
+  font-size: clamp(0.6rem, 1.8vw, 0.75rem);
+  letter-spacing: 0.1rem;
+}
+
+/* ==========================================
+   TABELA CURATIVOS
+   ========================================== */
+
+#tabela-curativo {
+  font-size: clamp(0.6rem, 1.8vw, 0.75rem);
+}
+
+#tabela-curativo th,
+#tabela-curativo td {
+  padding: 0.5rem 0.3rem;
+  font-size: clamp(0.6rem, 1.8vw, 0.75rem);
+}
+
+#tabela-curativo th {
+  font-size: clamp(0.6rem, 2vw, 0.8rem);
+  letter-spacing: 0.3px;
+}
+
+#tabela-curativo .numero-tuss {
+  font-size: clamp(0.65rem, 2vw, 0.8rem);
+  letter-spacing: 0.1rem;
+}
+
+/* Coluna convênio centralizada */
+#tabela-curativo td:nth-child(1) {
+  text-align: center;
+  font-size: clamp(0.6rem, 1.8vw, 0.75rem);
+}
+
+/* ==========================================
+   TABELA CIRURGIA 306
+   ========================================== */
+
+#tabela-cirurgia306 {
+  font-size: clamp(0.65rem, 2vw, 0.8rem);
+}
+
+#tabela-cirurgia306 th,
+#tabela-cirurgia306 td {
+  padding: 0.5rem 0.3rem;
+  font-size: clamp(0.6rem, 2vw, 0.75rem);
+}
+
+#tabela-cirurgia306 th {
+  font-size: clamp(0.6rem, 2.2vw, 0.8rem);
+  letter-spacing: 0.3px;
+}
+
+/* CRM centralizado */
+#tabela-cirurgia306 td:nth-child(1) {
+  font-size: clamp(0.65rem, 2vw, 0.8rem);
+}
+
+/* ==========================================
+   TABELAS DE SENHAS (CONVÊNIOS E SISTEMAS)
+   ========================================== */
+
+#tabela-convenios, #tabela-sistemas {
+  font-size: clamp(0.65rem, 2vw, 0.8rem);
+}
+
+#tabela-convenios th, #tabela-convenios td,
+#tabela-sistemas th, #tabela-sistemas td {
+  padding: 0.6rem 0.4rem;
+  font-size: clamp(0.6rem, 2vw, 0.75rem);
+}
+
+#tabela-convenios th, #tabela-sistemas th {
+  font-size: clamp(0.6rem, 2.2vw, 0.8rem);
+  letter-spacing: 0.3px;
+}
+
+/* Dados sensíveis */
+.dados-login, .dados-senha, .dados-codigo {
+  font-size: clamp(0.6rem, 1.8vw, 0.75rem);
+}
+
+/* ==========================================
+   CONVERSOR DE TEXTO - MOBILE
+   ========================================== */
+
+.conversor-container {
+    flex-direction: column !important;
+}
+
+#painel1conversor, #painel2conversor {
+    width: 100% !important;
+}
+
+#btnMaiusculas, #btnMinusculas, #btnCapitalizar,
+#btnCopiarTextoConvertido, #btnLimparTextoConvertido {
+    font-size: 0.9rem;
+    padding: 0.6rem 1rem;
+    margin: 0.3rem;
+}

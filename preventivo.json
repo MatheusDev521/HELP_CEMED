@@ -1,0 +1,86 @@
+[
+    {
+        "sigla": "BACT",
+        "exame": "BACTERIOSCOPIA - GRAM (MATRIX)",
+        "coleta": "COLOSTOMIA",
+        "tasy": "28100093",
+        "tuss": "40310060"
+    },
+    {
+        "sigla": "CIT0",
+        "exame": "CITOLOGIA (CITOPATOLOGICO) (MATRIX)",
+        "coleta": "CITOLOGIA DE COLO DE ÚTERO",
+        "tasy": "21010056",
+        "tuss": "40601137"
+    },
+    {
+        "sigla": "CFU",
+        "exame": "CULTURA DE FUNGOS (MATRIX)",
+        "coleta": "SECREÇÕES",
+        "tasy": "28100271",
+        "tuss": "40310140"
+    },
+    {
+        "sigla": "CUL",
+        "exame": "CULTURA GERAL (MATRIX)",
+        "coleta": "SECREÇÃO VAGINAL",
+        "tasy": "28100662",
+        "tuss": "40310400"
+    },
+    {
+        "sigla": "CULGODIV",
+        "exame": "CULTURA PARA GONOCOCOS, AMOSTRAS DIVERSAS - MATRIX",
+        "coleta": "DIVERSOS",
+        "tasy": "40310400",
+        "tuss": "40310400"
+    },
+    {
+        "sigla": "CULSB",
+        "exame": "CULTURA STREPTOCOCCUS AGALACTIAE GRUPO B (MATRIX)",
+        "coleta": "SECREÇÃO VAGINAL",
+        "tasy": "28100662",
+        "tuss": "40310400"
+    },
+    {
+        "sigla": "DSTPCR",
+        "exame": "DST - DOENÇAS SEXUALMENTE TRANSMISSÍVEIS PCR",
+        "coleta": "SECREÇÃO VAGINAL",
+        "tasy": "40314278",
+        "tuss": "40314278"
+    },
+    {
+        "sigla": "HPV",
+        "exame": "HPV - PAPILOMAVIRUS HUMANO, POR PCR (MATRIX)",
+        "coleta": "SECREÇÃO VAGINAL",
+        "tasy": "28062213",
+        "tuss": "40314154"
+    },
+    {
+        "sigla": "MICO1",
+        "exame": "MICOPLASMA, CULTURA (MATRIX)",
+        "coleta": "SECREÇÃO VAGINAL",
+        "tasy": "28100433",
+        "tuss": "40310205"
+    },
+    {
+        "sigla": "PFU",
+        "exame": "PESQUISA DE FUNGOS (MATRIX)",
+        "coleta": "SECREÇÃO VAGINAL",
+        "tasy": "28100280",
+        "tuss": "40310230"
+    },
+    {
+        "sigla": "TCHVA",
+        "exame": "PESQUISA DE TRICHOMONAS VAGINALIS (MATRIX)",
+        "coleta": "SECREÇÃO VAGINAL",
+        "tasy": "28100280",
+        "tuss": "40310230"
+    },
+    {
+        "sigla": "URA",
+        "exame": "UREAPLASMA, CULTURA (MATRIX)",
+        "coleta": "SECREÇÃO VAGINAL",
+        "tasy": "28100433",
+        "tuss": "40310205"
+    }
+]

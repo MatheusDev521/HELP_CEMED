@@ -1,0 +1,202 @@
+[
+    {
+        "convenio": "CARE PLUS",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "CARE PLUS",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "CARE PLUS",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO GRANDE",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "CARE PLUS",
+        "descricao": "UTILIZAÇÃO DE BANDEJA PARA RETIRADA DE PONTOS",
+        "tuss": "60023899"
+    },
+    {
+        "convenio": "GAMA SAÚDE",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "GAMA SAÚDE",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "GAMA SAÚDE",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO GRANDE",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "GAMA SAÚDE",
+        "descricao": "UTILIZAÇÃO DE BANDEJA PARARETIRADA DE PONTOS",
+        "tuss": "60023899"
+    },
+    {
+        "convenio": "OMINT",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "OMINT",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "OMINT",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO GRANDE",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "OMINT",
+        "descricao": "UTILIZAÇÃO DE BANDEJA PARA RETIRADA DE PONTOS",
+        "tuss": "60023899"
+    },
+    {
+        "convenio": "PETROBRÁS",
+        "descricao": "PACOTE CURATIVO PEQUENO (AMBULATORIAL - INCLUI MAT/MED)",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "PETROBRÁS",
+        "descricao": "PACOTE CURATIVO MEDIO (AMBULATORIAL - INCLUI MAT/MED)",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "PETROBRÁS",
+        "descricao": "PACOTE CURATIVO GRANDE (AMBULATORIAL - INCLUI MAT/MED)",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "PLANASSISTE",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "PLANASSISTE",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "PLANASSISTE",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO GRANDE",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "PLANASSISTE",
+        "descricao": "UTILIZAÇÃO DE BANDEJA PARARETIRADA DE PONTOS",
+        "tuss": "60023899"
+    },
+    {
+        "convenio": "PORTO SEGURO",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "PORTO SEGURO",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "PORTO SEGURO",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO GRANDE",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "PORTO SEGURO",
+        "descricao": "UTILIZAÇÃO DE BANDEJA PARA RETIRADA DE PONTOS",
+        "tuss": "60023899"
+    },
+    {
+        "convenio": "PROMÉDICA",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "PROMÉDICA",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "PROMÉDICA",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO GRANDE",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "PROMÉDICA",
+        "descricao": "UTILIZAÇÃO DE BANDEJA PARA RETIRADA DE PONTOS",
+        "tuss": "60023899"
+    },
+    {
+        "convenio": "PRÓSOCIAL",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "PRÓSOCIAL",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "PRÓSOCIAL",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO GRANDE",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "SAÚDE CAIXA",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "SAÚDE CAIXA",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "SAÚDE CAIXA",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO GRANDE",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "SUL AMÉRICA",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "SUL AMÉRICA",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "SUL AMÉRICA",
+        "descricao": "UTILIZAÇÃO DE BANDEJA PARARETIRADA DE PONTOS",
+        "tuss": "60023899"
+    },
+    {
+        "convenio": "TRT5-SAÚDE",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO PEQUENO",
+        "tuss": "60034025"
+    },
+    {
+        "convenio": "TRT5-SAÚDE",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO MÉDIO",
+        "tuss": "60034017"
+    },
+    {
+        "convenio": "TRT5-SAÚDE",
+        "descricao": "TAXA POR UNIDADE DE CURATIVO GRANDE",
+        "tuss": "60034009"
+    },
+    {
+        "convenio": "TRT5-SAÚDE",
+        "descricao": "UTILIZAÇÃO DE BANDEJA PARA RETIRADA DE PONTOS",
+        "tuss": "60023899"
+    }
+]

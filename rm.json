@@ -1,0 +1,223 @@
+[
+    {
+        "exame": "ABDOME SUPERIOR (FÍGADO, PÂNCREAS, BAÇO, RINS, SUPRA-RENAIS, RETROPERITÔNIO)",
+        "tuss": "41101170"
+    },
+    {
+        "exame": "ANGIO-RM ARTERIAL PULMONAR",
+        "tuss": "41101499"
+    },
+    {
+        "exame": "ANGIO-RM VENOSA PULMONAR",
+        "tuss": "41101502"
+    },
+    {
+        "exame": "ANGIO-RM ARTERIAL DE ABDOME SUPERIOR",
+        "tuss": "41101510"
+    },
+    {
+        "exame": "ANGIO-RM VENOSA DE ABDOME SUPERIOR",
+        "tuss": "41101529"
+    },
+    {
+        "exame": "ANGIO-RM ARTERIAL DE CRÂNIO",
+        "tuss": "41101537"
+    },
+    {
+        "exame": "ANGIO-RM VENOSA DE CRÂNIO",
+        "tuss": "41101545"
+    },
+    {
+        "exame": "ANGIO-RM ARTERIAL DE MEMBRO INFERIOR (UNILATERAL)",
+        "tuss": "41101553"
+    },
+    {
+        "exame": "ANGIO-RM VENOSA DE MEMBRO INFERIOR (UNILATERAL)",
+        "tuss": "41101561"
+    },
+    {
+        "exame": "ANGIO-RM ARTERIAL DE MEMBRO SUPERIOR (UNILATERAL)",
+        "tuss": "41101570"
+    },
+    {
+        "exame": "ANGIO-RM VENOSA DE MEMBRO SUPERIOR (UNILATERAL)",
+        "tuss": "41101588"
+    },
+    {
+        "exame": "ANGIO-RM ARTERIAL DE PELVE",
+        "tuss": "41101596"
+    },
+    {
+        "exame": "ANGIO-RM VENOSA DE PELVE",
+        "tuss": "41101600"
+    },
+    {
+        "exame": "ANGIO-RM ARTERIAL DE PESCOCO",
+        "tuss": "41101618"
+    },
+    {
+        "exame": "ANGIO-RM VENOSA DE PESCOCO",
+        "tuss": "41101626"
+    },
+    {
+        "exame": "ANGIO-RM DE AORTA ABDOMINAL",
+        "tuss": "41101340"
+    },
+    {
+        "exame": "ANGIO-RM DE AORTA TORÁCICA",
+        "tuss": "41101332"
+    },
+    {
+        "exame": "ARTICULAÇÃO TEMPOROMANDIBULAR (BILATERAL) ",
+        "tuss": "41101103"
+    },
+    {
+    "exame": "ARTICULAR (POR ARTICULAÇÃO UNILATERAL: OMBRO, COTOVELO, PUNHO, MÃO, QUADRIL, JOELHO, PERNA, TORNOZELO, DEDOS, ESTERNOCLAVICULAR, COXOFEMORAL) ",
+    "tuss": "41101316"
+    }
+    ,
+    {
+        "exame": "ARTRO-RM (INCLUIR A PUNÇÃO ARTICULAR) - POR ARTICULAÇÃO",
+        "tuss": "41102010"
+    },
+    {
+        "exame": "ARTROGRAFIA OU PNEUMOARTROGRAFIA",
+        "tuss": "40809048"
+    },
+    {
+        "exame": "BACIA (ARTICULAÇÕES SACROILÍACAS)",
+        "tuss": "41101278"
+    },
+    {
+        "exame": "BASE DO CRÂNIO",
+        "tuss": "41101030"
+    },
+    {
+        "exame": "BOLSA ESCROTAL",
+        "tuss": "41101219"
+    },
+    {
+        "exame": "COLUNA CERVICAL OU DORSAL OU LOMBAR",
+        "tuss": "41101227"
+    },
+    {
+        "exame": "CORAÇÃO - MORFOLÓGICO E FUNCIONAL ",
+        "tuss": "41101138"
+    },
+    {
+        "exame": "CORAÇÃO - MORFOLÓGICO E FUNCIONAL + PERFUSÃO + ESTRESSE ",
+        "tuss": "41101146"
+    },
+    {
+        "exame": "CORAÇÃO - MORFOLÓGICO E FUNCIONAL + PERFUSÃO + VIABILIDADE MIOCÁRDICA",
+        "tuss": "41101154"
+    },
+    {
+        "exame": "COXA (UNILATERAL) ",
+        "tuss": "41101286"
+    },
+    {
+        "exame": "CRÂNIO (ENCÉFALO) ",
+        "tuss": "41101014"
+    },
+    {
+        "exame": "ENDOCAVITÁRIA (ENDORRETAL OU ENDOVAGINAL) ",
+        "tuss": "41101367"
+    },
+    {
+        "exame": "ENDOSCOPIA VIRTUAL POR RM - ACRESCENTAR AO EXAME DE BASE",
+        "tuss": "41101375"
+    },
+    {
+        "exame": "ESPECTROSCOPIA POR RM",
+        "tuss": "41101065"
+    },
+    {
+        "exame": "ESTUDO FUNCIONAL (MAPEAMENTO CORTICAL POR RM)",
+        "tuss": "41101049"
+    },
+    {
+        "exame": "FACE (INCLUI SEIOS DA FACE) ",
+        "tuss": "41101090"
+    },
+    {
+        "exame": "FETAL",
+        "tuss": "41101197"
+    },
+    {
+        "exame": "FLUXO LIQUÓRICO (COMO COMPLEMENTAR) ",
+        "tuss": "41101235"
+    },
+    {
+        "exame": "HIDRO-RM (COLÂNGIO-RM OU URO-RM OU MIELO-RM OU SIALO-RM OU CISTOGRAFIA POR RM)",
+        "tuss": "41101359"
+    },
+    {
+        "exame": "MAMA (BILATERAL) ",
+        "tuss": "41101480"
+    },
+    {
+        "exame": "MÃO (NÃO INCLUI PUNHO) ",
+        "tuss": "41101260"
+    },
+    {
+        "exame": "MEMBRO SUPERIOR UNILATERAL (NÃO INCLUI MÃO E ARTICULAÇÕES) ",
+        "tuss": "41101251"
+    },
+    {
+        "exame": "ÓRBITA BILATERAL ",
+        "tuss": "41101073"
+    },
+    {
+        "exame": "OSSOS TEMPORAIS BILATERAL ",
+        "tuss": "41101081"
+    },
+    {
+        "exame": "PÉ (ANTEPÉ) - NÃO INCLUI TORNOZELO ",
+        "tuss": "41101308"
+    },
+    {
+        "exame": "PELVE (NÃO INCLUI ARTICULAÇÕES COXOFEMORAIS)",
+        "tuss": "41101189"
+    },
+    {
+        "exame": "PÊNIS ",
+        "tuss": "41101200"
+    },
+    {
+        "exame": "PERFUSÃO CEREBRAL POR RM",
+        "tuss": "41101057"
+    },
+    {
+        "exame": "PERNA (UNILATERAL) ",
+        "tuss": "41101294"
+    },
+    {
+        "exame": "PESCOÇO (NASOFARINGE, OROFARINGE, LARINGE, TRAQUÉIA, TIREÓIDE, PARATIREÓIDE)",
+        "tuss": "41101111"
+    },
+    {
+        "exame": "PLEXO BRAQUIAL (DESFILADEIRO TORÁCICO) OU LOMBOSSACRAL (NÃO INCLUI COLUNA CERVICAL OU LOMBAR) ",
+        "tuss": "41101243"
+    },
+    {
+        "exame": "PUNÇÃO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA ORIENTADA POR RM (NAO INCLUI O EXAME DE BASE)",
+        "tuss": "40809188"
+    },
+    {
+        "exame": "RECONSTRUÇÃO TRIDIMENSIONAL - ACRESCENTAR AO EXAME DE BASE ",
+        "tuss": "41101383"
+    },
+    {
+        "exame": "RM ARTÉRIAS MEMBROS INFERIORES",
+        "tuss": "41101391"
+    },
+    {
+        "exame": "SELA TÚRCICA (HIPÓFISE)",
+        "tuss": "41101022"
+    },
+    {
+        "exame": "TÓRAX (MEDIASTINO, PULMÃO, PAREDE TORÁCICA) ",
+        "tuss": "41101120"
+    }
+]

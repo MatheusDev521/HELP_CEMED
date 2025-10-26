@@ -1,0 +1,1559 @@
+/* 🔧 Reset, variáveis e base */
+:root {
+  --clr-primary: #3282b8;
+  --clr-primary-dark: #0f4c75;
+  --clr-bg-light: #2a2a2a;
+  --clr-bg-dark: #1c1c1c;
+  --clr-text: #f0f0f0;
+  --clr-border: rgba(255, 255, 255, 0.1);
+  --border-color: rgba(204, 204, 204, 0.8);
+  --radius: 12px;
+  --shadow-light: rgba(50, 130, 184, 0.3);
+  --shadow-dark: rgba(0, 0, 0, 0.5);
+  --transition: all 0.3s ease;
+  --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  line-height: 1.6;
+  color: var(--clr-text);
+  background: linear-gradient(135deg, var(--clr-bg-dark) 0%, var(--clr-bg-light) 100%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+footer {
+  background-color: var(--clr-bg-light);
+  color: white;
+  padding: 18px;
+  text-align: center;
+  margin-top: auto;
+}
+
+#versao-site {
+  text-align: center;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.733);
+  margin-top: 10px;
+  font-family: monospace;
+  user-select: none;
+  margin-bottom: 10px;
+}
+
+/* 🔵 Cabeçalho */
+h1 {
+  text-align: center;
+  padding: 2rem 0;
+  color: var(--clr-primary);
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  font-weight: 700;
+  letter-spacing: 0.4rem;
+  text-shadow: 0 4px 12px var(--shadow-dark);
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+label {
+  color: var(--clr-text);
+  font-size: clamp(1.3rem, 1.5vw, 1.2rem);
+  font-weight: 500;
+  letter-spacing: 1px;
+  display: block;
+  margin: 0.5rem;
+}
+
+.search-container {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+}
+
+.search-icon {
+  position: absolute;
+  left: 15px;
+  top: 40%;
+  transform: translateY(-50%);
+  color: #999;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.search-icon svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+/* 🔵 Navegação - Otimizada */
+nav {
+  background: rgba(30, 30, 30, 0.9);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  margin: 0 auto 2rem;
+  max-width: 75%;
+  padding: 1rem;
+  box-shadow: 0 8px 32px var(--shadow-light);
+  border: 1px solid var(--clr-border);
+}
+
+#tuss {
+  max-width: 85%;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+nav li {
+  font-size: clamp(1rem, 1.5vw, 1.3rem);
+}
+
+/* Base para todos os links de navegação */
+nav a {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  color: #ccc;
+  font-weight: 500;
+  border-radius: var(--radius);
+  transition: var(--transition-smooth);
+  position: relative;
+  will-change: transform, background-color, box-shadow;
+}
+
+nav a:hover {
+  background: #0056b3;
+  color: white;
+  transform: translateY(-2px);
+  text-shadow: 0 4px 12px var(--shadow-dark);
+}
+
+nav a:active {
+  transform: translateY(0);
+}
+
+nav a:focus-visible {
+  outline: 2px dashed var(--clr-primary);
+  outline-offset: 2px;
+}
+
+#painel1conversor, #painel2conversor {
+  width: 100%;
+  text-align: center;
+  background: #1f1f1f;
+  border: 2px solid #3a3a3a;
+  border-radius: 12px;
+  text-align: center;
+}
+  
+/* Botões de conversão de texto */
+#btnMaiusculas, #btnMinusculas, #btnCapitalizar {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  color: #ccc;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border-radius: var(--radius);
+  transition: var(--transition-smooth);
+  position: relative;
+  will-change: transform, background-color, box-shadow;
+  margin: 0.3rem 0.3rem 0.6rem 0.3rem;
+  background: rgba(30, 30, 30, 0.9);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px var(--shadow-light);
+  border: 1px solid var(--clr-border);
+}
+
+#btnCopiarTextoConvertido, #btnLimparTextoConvertido {
+  display: inline-block;
+  padding: 0.50rem 1rem;
+  text-decoration: none;
+  color: #ccc;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border-radius: var(--radius);
+  transition: var(--transition-smooth);
+  position: relative;
+  will-change: transform, background-color, box-shadow;
+  margin: 0.3rem;
+  background: rgba(30, 30, 30, 0.9);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px var(--shadow-light);
+  border: 1px solid var(--clr-border);
+}
+
+#btnCopiarTextoConvertido:hover {
+  background: #0056b3;
+  color: white;
+  transform: translateY(-2px);
+  cursor: pointer;
+  text-shadow: 0 4px 12px var(--shadow-dark);
+}
+
+#btnCopiarTextoConvertido:active {
+  background-color: #003d82;
+}
+
+#btnLimparTextoConvertido:hover {
+  background: #b30000;
+  color: white;
+  transform: translateY(-2px);
+  cursor: pointer;
+  text-shadow: 0 4px 12px var(--shadow-dark);
+}
+
+#btnLimparTextoConvertido:active {
+  background-color: #800000;
+}
+
+#painel2conversor {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  position: relative;
+  min-height: 300px;
+}
+
+#outputTexto {
+  flex: 1;                  /* ocupa o espaço disponível */
+  margin-bottom: 1rem;
+  text-align: left;
+  overflow-y: auto;
+}
+
+#botoesPainel2 {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: auto;          /* cola os botões no rodapé */
+}
+
+#btnMaiusculas:hover,
+#btnMinusculas:hover,
+#btnCapitalizar:hover {
+  background: #0056b3;
+  color: white;
+  transform: translateY(-2px);
+  cursor: pointer;
+  text-shadow: 0 4px 12px var(--shadow-dark);
+}
+
+#btnMaiusculas:active,
+#btnMinusculas:active,
+#btnCapitalizar:active,
+#btnCopiarTextoConvertido:active,
+#btnLimparTextoConvertido:active {
+  transform: translateY(0);
+}
+
+#btnMaiusculas:focus-visible,
+#btnMinusculas:focus-visible,
+#btnCapitalizar:focus-visible {
+  outline: 2px dashed var(--clr-primary);
+  outline-offset: 2px;
+}
+
+#inputTexto {
+  min-height: 6em;    /* altura mínima inicial */
+  max-height: 40em;   /* altura máxima opcional */
+  padding: 1.3rem;
+  font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+/* Links com ícones - versão otimizada */
+#idcura, #idcardio, #idresso, #idtomo, #idultra, #idpreve {
+  position: relative;
+  padding-right: 1.5rem;
+  min-width: 150px;
+  transition: var(--transition-smooth);
+}
+
+/* Pseudo-elementos otimizados - base comum */
+#idcura::after, #idcardio::after, #idresso::after, 
+#idtomo::after, #idultra::after, #idpreve::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate(135%, -50%);
+  width: 40px;
+  height: 40px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+  transition: var(--transition-smooth);
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Imagens específicas para cada ícone */
+#idcura::after { background-image: url(curativo.png); }
+#idcardio::after { background-image: url(cardio.png); }
+#idresso::after { background-image: url(rm.png); }
+#idtomo::after { background-image: url(tc.png); }
+#idultra::after { background-image: url(usg.png); }
+#idpreve::after { background-image: url(prevente.png); }
+
+/* Estados de hover unificados */
+#idcura:hover::after, #idcardio:hover::after, #idresso:hover::after, 
+#idtomo:hover::after, #idultra:hover::after, #idpreve:hover::after {
+  opacity: 1;
+  right: 10px;
+  transform: translateY(-50%);
+}
+
+#idcura:hover, #idcardio:hover, #idresso:hover, 
+#idtomo:hover, #idultra:hover, #idpreve:hover {
+  background: #0056b3;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px var(--shadow-light);
+  text-align: left;
+  padding-right: 3.6rem;
+}
+
+/* 🔵 Seções */
+section {
+  width: 90%;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: var(--clr-bg-light);
+  border-radius: 20px;
+  box-shadow: 0 10px 40px var(--shadow-dark);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  animation: fadeIn 0.5s;
+}
+
+section h2 {
+  color: var(--clr-primary);
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+  border-bottom: 3px solid #3a3a3a;
+  padding-bottom: 0.5rem;
+}
+
+section h3 {
+  color: var(--clr-primary);
+  font-size: clamp(1.2rem, 2vw, 1.5rem);
+  margin-bottom: 1rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+section p {
+  margin: 1.5rem;
+  text-align: justify;
+  color: #ccc;
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  line-height: 1.7;
+}
+
+/* 🔐 Bloqueio */
+#bloqueador {
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+  background: #1f1f1f;
+  border: 2px solid #3a3a3a;
+}
+
+#bloqueador input[type="password"] {
+  width: 100%;
+  padding: 1rem;
+  margin: 0 auto 1.3rem;
+  border: 2px solid #3a3a3a;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  background: #2f2f2f;
+  color: var(--clr-text);
+}
+
+#bloqueador input[type="password"]:focus {
+  outline: none;
+  border-color: var(--clr-primary);
+  box-shadow: 0 0 0 3px rgba(50, 130, 184, 0.3);
+}
+
+#bloqueador button {
+  background: linear-gradient(135deg, var(--clr-primary) 0%, var(--clr-primary-dark) 100%);
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+#bloqueador button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(50, 130, 184, 0.4);
+}
+
+#bloqueador button:active {
+  transform: translateY(0);
+}
+
+.mensagem-senha {
+  font-weight: 600;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+
+#MensageSenhaIncorreta {
+  color: #e74c3c;
+  background: rgba(231, 76, 60, 0.1);
+}
+
+#MensageSenhaCorreta {
+  color: #2ecc71;
+  background: rgba(46, 204, 113, 0.1);
+  display: flex;
+  text-align: center;
+}
+
+/* 🔐 TABELAS DE SENHAS E LOGINS */
+#senhas h3 {
+  margin: 0.7rem auto;
+  font-size: 1.7rem;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 2px;
+  color: var(--clr-primary);
+  display: flex;
+  justify-content: center;
+  border: 2px solid #3a3a3a;
+  background: #222;
+  padding: 0.7rem 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.45);
+}
+
+
+#senhas .tabela-container {
+  width: 100%;
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: none; /* Remove borda do container */
+  background-repeat: no-repeat;
+  box-shadow: none; /* Remove sombra do container */
+  margin-bottom: 2rem;
+}
+
+/* Configurações das tabelas de senhas */
+#tabela-convenios, #tabela-sistemas {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin-top: 1rem;
+  background: var(--clr-bg-light);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 4px 12px var(--shadow-dark);
+  border: 2px solid var(--border-color);
+  table-layout: fixed;
+}
+
+/* Headers das tabelas de senhas */
+#tabela-convenios th, #tabela-sistemas th {
+  background: linear-gradient(135deg, var(--clr-primary) 0%, var(--clr-primary-dark) 100%);
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-align: center;
+  font-size: clamp(0.9rem, 1.2vw, 1.1rem);
+  padding: 1rem;
+  border-bottom: 2px solid var(--border-color);
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Células das tabelas de senhas */
+#tabela-convenios td, #tabela-sistemas td {
+  font-size: 1rem;
+  padding: 1rem;
+  font-weight: 600;
+  color: #ddd;
+  border-bottom: 1px solid var(--border-color);
+  border-right: 1px solid var(--border-color);
+  vertical-align: middle;
+  text-align: left;
+}
+
+/* Larguras das colunas - Tabela Convênios */
+#tabela-convenios th:nth-child(1), #tabela-convenios td:nth-child(1) { width: 28%; } /* CONVÊNIO */
+#tabela-convenios th:nth-child(2), #tabela-convenios td:nth-child(2) { width: 21%; } /* CÓDIGO */
+#tabela-convenios th:nth-child(3), #tabela-convenios td:nth-child(3) { width: 26%; } /* LOGIN */
+#tabela-convenios th:nth-child(4), #tabela-convenios td:nth-child(4) { width: 25%; } /* SENHA */
+
+/* Larguras das colunas - Tabela Sistemas */
+#tabela-sistemas th:nth-child(1), #tabela-sistemas td:nth-child(1) { width: 40%; } /* PROGRAMA */
+#tabela-sistemas th:nth-child(2), #tabela-sistemas td:nth-child(2) { width: 30%; } /* LOGIN */
+#tabela-sistemas th:nth-child(3), #tabela-sistemas td:nth-child(3) { width: 30%; } /* SENHA */
+
+/* Células interativas (login e senha) */
+.celula-login, .celula-senha {
+  position: relative;
+  text-align: left !important;
+  white-space: nowrap !important;
+  vertical-align: middle !important;
+  overflow: hidden;
+  transition: var(--transition-smooth);
+}
+
+/* Dados de login e senha */
+.dados-login, .dados-senha {
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  font-size: 0.95rem;
+  transition: var(--transition-smooth);
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+}
+
+/* Botão para mostrar/ocultar senha */
+.btn-mostrar-senha {
+  position: absolute;
+  top: 50%;
+  margin-left: 0.4rem;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  z-index: 3;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.btn-mostrar-senha:hover {
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-50%) scale(1.1);
+}
+
+/* Célula código adicional - mesmo padrão das células login/senha */
+.celula-codigo {
+  position: relative;
+  text-align: center !important;
+  white-space: nowrap !important;
+  vertical-align: middle !important;
+  overflow: hidden;
+  transition: var(--transition-smooth);
+}
+
+.dados-codigo {
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  font-size: 0.95rem;
+  transition: var(--transition-smooth);
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+}
+
+/* Mostrar botão e mover número ao fazer hover na linha */
+#tabela-convenios tbody tr:hover .celula-codigo .btn-copiar {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* MOVIMENTO DO NÚMERO - igual às tabelas de exames */
+#tabela-convenios tbody tr:hover .dados-codigo {
+  transform: translateX(-20px);
+}
+
+/* Movimento extra quando o botão está no estado copiado */
+#tabela-convenios tbody tr .celula-codigo .dados-codigo {
+  transition: transform 0.3s ease;
+}
+
+/* Estado copiado - mais espaço */
+#tabela-convenios tbody tr .btn-copiar.copiado ~ .dados-codigo,
+#tabela-convenios tbody tr .dados-codigo:has(~ .btn-copiar.copiado) {
+  transform: translateX(-45px) !important;
+}
+
+/* Hover states para mostrar botões */
+#tabela-convenios tbody tr:hover .btn-copiar,
+#tabela-sistemas tbody tr:hover .btn-copiar,
+#tabela-convenios tbody tr:hover .btn-mostrar-senha,
+#tabela-sistemas tbody tr:hover .btn-mostrar-senha {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Hover das linhas */
+#tabela-convenios tbody tr:hover,
+#tabela-sistemas tbody tr:hover {
+  background: rgba(50, 130, 184, 0.08);
+  box-shadow: inset 0 0 0 1px rgba(50, 130, 184, 0.2);
+  transition: all 0.2s ease;
+}
+
+/* Regras comuns */
+#tabela-convenios td:nth-child(1) {
+    position: relative;
+    padding-right: 100px;
+    overflow: hidden;
+}
+
+/* Hover genérico */
+#tabela-convenios td:nth-child(1):hover::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    opacity: 0.6;
+    mask-image: linear-gradient(to left, rgba(0,0,0,1) 20%, rgba(0,0,0,0) 100%);
+    -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,1) 20%, rgba(0,0,0,0) 100%);
+    animation: slide-in 0.8s forwards;
+    background-position: right center; /* padrão */
+}
+
+/* Específicos apenas para imagem/posicionamento */
+#tabela-convenios tr:nth-child(1) td:nth-child(1):hover::after {
+    background-image: url("amil.png");
+    background-position: right 30px center;
+}
+
+#tabela-convenios tr:nth-child(2) td:nth-child(1):hover::after {
+    background-image: url("amil.png");
+    background-position: right 60px center;
+}
+
+#tabela-convenios tr:nth-child(3) td:nth-child(1):hover::after {
+    background-image: url("Bradesco.jpg");
+    background-position: right 4px center;
+}
+
+#tabela-convenios tr:nth-child(4) td:nth-child(1):hover::after {
+    background-image: url("orizon.jpg");
+    background-position: right 4px center;
+}
+
+#tabela-convenios tr:nth-child(5) td:nth-child(1):hover::after {
+    background-image: url("petrobras.jpg");
+    background-position: right 35px center;
+}
+
+#tabela-convenios tr:nth-child(6) td:nth-child(1):hover::after {
+    background-image: url("planassiste.jpg");
+    background-position: right 40px center;
+}
+
+#tabela-convenios tr:nth-child(7) td:nth-child(1):hover::after {
+    background-image: url("prosocial.jpg");
+    background-position: right 35px center;
+}
+
+#tabela-convenios tr:nth-child(8) td:nth-child(1):hover::after {
+    background-image: url("saudecaixa.jpg");
+    background-position: right 35px center;
+}
+
+#tabela-convenios tr:nth-child(9) td:nth-child(1):hover::after {
+    background-image: url("sulamerica.jpg");
+    background-position: right 40px center;
+}
+
+#tabela-convenios tr:nth-child(10) td:nth-child(1):hover::after {
+    background-image: url("trt.jpg");
+    background-position: right 0px center;
+}
+
+#tabela-convenios tr:nth-child(11) td:nth-child(1):hover::after {
+    background-image: url("unafisco.jpg");
+    background-position: right 20px center;
+}
+
+#tabela-convenios tr:nth-child(12) td:nth-child(1):hover::after {
+    background-image: url("unimed.jpg");
+    background-position: right -15px center;
+}
+
+
+@keyframes slide-in {
+    from {
+        transform: translateX(-5%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 0.8;
+    }
+}
+
+/* Cursor pointer para linhas clicáveis */
+#tabela-convenios tbody tr,
+#tabela-sistemas tbody tr {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Efeito de clique */
+#tabela-convenios tbody tr:active,
+#tabela-sistemas tbody tr:active {
+  background: rgba(50, 130, 184, 0.15);
+  transform: scale(0.995);
+}
+
+/* Remove bordas das últimas células */
+#tabela-convenios th:last-child, #tabela-convenios td:last-child,
+#tabela-sistemas th:last-child, #tabela-sistemas td:last-child {
+  border-right: none;
+}
+
+#tabela-convenios tbody tr:last-child td,
+#tabela-sistemas tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Centralizar código adicional */
+#tabela-convenios td:nth-child(2) {
+  text-align: center;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+}
+
+/* 🔍 Buscadores - Unificados */
+#BuscadorMedico, #BuscadorUSG, #BuscadorTC, #BuscadorRM, 
+#BuscadorCARDIO, #BuscadorPrev, #BuscadorCura, #BuscadorCircurgia306 {
+  width: 100%;
+  padding: 1rem 1rem 1rem 39px;
+  margin-bottom: 1.5rem;
+  border: 2px solid #3a3a3a;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  background: #2f2f2f;
+  color: var(--clr-text);
+}
+
+#BuscadorMedico:focus, #BuscadorTC:focus, #BuscadorUSG:focus, 
+#BuscadorRM:focus, #BuscadorCARDIO:focus, #BuscadorPrev:focus, 
+#BuscadorCura:focus, #BuscadorCircurgia306:focus {
+  outline: none;
+  border-color: var(--clr-primary);
+  box-shadow: 0 0 0 3px rgba(50, 130, 184, 0.3);
+}
+
+#BuscadorMedico:focus + .search-icon, #BuscadorUSG:focus + .search-icon, 
+#BuscadorTC:focus + .search-icon, #BuscadorRM:focus + .search-icon, 
+#BuscadorCARDIO:focus + .search-icon, #BuscadorPrev:focus + .search-icon, 
+#BuscadorCura:focus + .search-icon, #BuscadorCircurgia306:focus + .search-icon {
+  color: var(--clr-primary);
+}
+
+#BuscadorMedico::placeholder, #BuscadorUSG::placeholder, #BuscadorTC::placeholder, 
+#BuscadorRM::placeholder, #BuscadorPrev::placeholder, #BuscadorCARDIO::placeholder, 
+#BuscadorCura::placeholder, #BuscadorCircurgia306::placeholder {
+  color: #999;
+  font-style: italic;
+}
+
+/* 🩺 TABELA MÉDICOS - VERSÃO COMPLETAMENTE CORRIGIDA */
+
+/* Container específico para tabela médicos - sem bordas conflitantes */
+#equipe .tabela-container {
+  width: 100%;
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+
+#tabela-medicos {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin-top: 1rem;
+  background: var(--clr-bg-light);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 4px 12px var(--shadow-dark);
+  border: 2px solid var(--border-color);
+  table-layout: fixed;
+}
+
+/* Reset completo das bordas e centralização vertical */
+#tabela-medicos th, #tabela-medicos td {
+  font-size: clamp(0.7rem, 1vw, 1.2rem);
+  padding: 0.7rem 1.25rem;
+  color: #ddd;
+  border: none;
+  vertical-align: middle;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+/* Aplicar bordas seletivamente */
+#tabela-medicos th:not(:last-child), 
+#tabela-medicos td:not(:last-child) {
+  border-right: 1px solid var(--border-color);
+}
+
+#tabela-medicos tbody tr:not(:last-child) td {
+  border-bottom: 1px solid var(--border-color);
+}
+
+/* Header sem bordas extras */
+#tabela-medicos th {
+  background: linear-gradient(135deg, var(--clr-primary) 0%, var(--clr-primary-dark) 100%);
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#tabela-medicos td {
+  text-align: left;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+/* Larguras específicas das colunas */
+#tabela-medicos th:nth-child(1) { width: 8%; }  /* SALAS */
+#tabela-medicos th:nth-child(2) { width: 25%; } /* MÉDICOS */
+#tabela-medicos th:nth-child(3) { width: 6%; }  /* CRM */
+#tabela-medicos th:nth-child(4) { width: 19%; } /* ESPECIALIDADES */
+#tabela-medicos th:nth-child(5) { width: 11%; } /* CONVÊNIOS */
+#tabela-medicos th:nth-child(6) { width: 9%; }  /* TELEFONES */
+
+/* Paddings específicos com centralização vertical */
+#tabela-medicos td:nth-child(1) {
+  /* SALAS */
+  text-align: center;
+  font-size: clamp(0.6rem, 1vw, 1rem);
+  font-weight: 500;
+  vertical-align: middle;
+}
+
+#tabela-medicos td:nth-child(2) {
+  /* MÉDICOS */
+  padding-left: 1.3rem;
+  font-size: clamp(0.7rem, 1.1vw, 1.2rem);
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+#tabela-medicos td:nth-child(3) {
+  /* CRM */
+  text-align: center;
+  vertical-align: middle;
+}
+
+#tabela-medicos td:nth-child(4), 
+#tabela-medicos td:nth-child(5) { 
+  /* ESPECIALIDADES, CONVÊNIOS */
+  padding-left: 1rem;
+  vertical-align: middle;
+}
+
+#tabela-medicos td:nth-child(6) { 
+  /* TELEFONES */
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Hover suave */
+#tabela-medicos tbody tr:hover {
+  background: rgba(50, 130, 184, 0.08);
+  box-shadow: inset 0 0 0 1px rgba(50, 130, 184, 0.2);
+  transition: all 0.2s ease;
+}
+
+#tabela-medicos tbody tr {
+  transition: all 0.3s ease;
+}
+
+/* Container de convênios centralizado */
+.convenios-container {
+  position: relative;
+  width: 100%;
+  min-height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.2rem;
+  transition: all 0.4s ease;
+}
+
+/* Lista de convênios */
+.lista-convenios {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 1.4;
+}
+
+.lista-convenios li {
+  padding: 0.1rem 0;
+  font-size: clamp(0.65rem, 0.9vw, 1rem);
+  color: #ddd;
+  transition: color 0.4s ease;
+}
+
+.lista-convenios li:before {
+  content: "• ";
+  color: var(--clr-primary);
+  margin-right: 0.3rem;
+  font-weight: bold;
+}
+
+/* Convênios visíveis */
+.convenios-visiveis {
+  margin-bottom: 0;
+}
+
+/* Convênios ocultos */
+.convenios-ocultos {
+  margin-top: -2px;
+  padding-top: -2px;
+}
+
+/* Botão expandir convênios */
+.btn-expandir-convenios {
+  align-self: center;
+  background: linear-gradient(135deg, var(--clr-primary) 0%, var(--clr-primary-dark) 100%);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  opacity: 0.8;
+  margin-top: 0.2rem;
+  white-space: nowrap;
+  box-shadow: 0 1px 4px rgba(23, 162, 184, 0.3);
+}
+
+.btn-expandir-convenios:hover {
+  background: linear-gradient(135deg, #138496 0%, #0f6674 100%);
+  opacity: 1;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(23, 162, 184, 0.4);
+}
+
+.btn-expandir-convenios:active {
+  transform: translateY(0);
+}
+
+/* Ícone do botão */
+.icone-expandir {
+  transition: transform 0.3s ease;
+  flex-shrink: 0;
+}
+
+.btn-expandir-convenios.expandido .icone-expandir {
+  transform: rotate(180deg);
+}
+
+/* Estados do botão expandido */
+.btn-expandir-convenios.expandido {
+  background: linear-gradient(135deg, #28a745 0%, #1e7e34 100%);
+  box-shadow: 0 1px 4px rgba(40, 167, 69, 0.3);
+}
+
+.btn-expandir-convenios.expandido:hover {
+  background: linear-gradient(135deg, #1e7e34 0%, #155724 100%);
+  box-shadow: 0 2px 8px rgba(40, 167, 69, 0.4);
+}
+
+/* Texto do botão */
+.texto-expandir, .texto-recolher {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+/* Quando não há convênios */
+.sem-convenios {
+  color: #666;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  padding: 0.5rem 0;
+}
+
+.especialidades-container {
+  position: relative;
+  width: 100%;
+  min-height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.2rem;
+  transition: all 0.4s ease;
+}
+
+/* Lista de especialidades */
+.lista-especialidades {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 1.4;
+}
+
+.lista-especialidades li {
+  padding: 0.1rem 0;
+  font-size: clamp(0.65rem, 0.9vw, 1rem);
+  color: #ddd;
+  transition: color 0.4s ease;
+}
+
+.lista-especialidades li:before {
+  content: "• ";
+  margin-right: 0.3rem;
+  font-size: 0.8em;
+  color: var(--clr-primary);
+}
+
+/* Container de telefones - similar aos convênios */
+.telefones-container {
+  position: relative;
+  width: 100%;
+  min-height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.2rem;
+  transition: all 0.4s ease;
+}
+
+/* Lista de telefones */
+.lista-telefones {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 1.4;
+}
+
+.lista-telefones li {
+  padding: 0.1rem 0;
+  font-size: 0.9rem;
+  color: #ddd;
+  transition: color 0.4s ease;
+}
+
+.lista-telefones li:before {
+  content: "• ";
+  margin-right: 0.3rem;
+  font-size: 0.8em;
+  color: var(--clr-primary);
+}
+
+/* Quando não há especialidades ou telefones */
+.sem-dados {
+  color: #666;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  padding: 0.5rem 0;
+}
+
+/* 📊 Tabelas de Exames - Base Unificada */
+.tabela-container {
+  width: 100%;
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: 2px solid var(--border-color);
+  background: var(--clr-bg-light);
+  box-shadow: 0 4px 12px var(--shadow-dark);
+}
+
+#tabela-usg, #tabela-tc, #tabela-rm, #tabela-cardio, 
+#tabela-preventivo, #tabela-curativo {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  table-layout: fixed;
+}
+
+/* Larguras das colunas por tabela */
+#tabela-usg, #tabela-tc, #tabela-cardio, #tabela-rm {
+  --col1-width: 81%;
+  --col2-width: 19%;
+}
+
+#tabela-curativo {
+  --col1-width: 25%;
+  --col2-width: 55%;
+  --col3-width: 20%;
+}
+
+#tabela-preventivo {
+  --col1-width: 15%;
+  --col2-width: 31%;
+  --col3-width: 16%;
+  --col4-width: 19%;
+  --col5-width: 19%;
+}
+
+/* Estilos base para células das tabelas de exames */
+#tabela-usg th, #tabela-usg td, #tabela-tc th, #tabela-tc td,
+#tabela-rm th, #tabela-rm td, #tabela-cardio th, #tabela-cardio td,
+#tabela-preventivo th, #tabela-preventivo td,
+#tabela-curativo th, #tabela-curativo td {
+  font-size: clamp(1rem, 1vw, 1.1rem);
+  padding: 1rem;
+  color: #ddd;
+  border-bottom: 1px solid var(--border-color);
+  border-right: 1px solid var(--border-color);
+  overflow-wrap: break-word;
+  hyphens: auto;
+  vertical-align: top;
+}
+
+/* Headers das tabelas de exames */
+#tabela-usg th, #tabela-tc th, #tabela-rm th, #tabela-cardio th,
+#tabela-preventivo th, #tabela-curativo th {
+  background: linear-gradient(135deg, var(--clr-primary) 0%, var(--clr-primary-dark) 100%);
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+/* Células de dados */
+#tabela-usg td, #tabela-tc td, #tabela-rm td, #tabela-cardio td,
+#tabela-preventivo td, #tabela-curativo td {
+  text-align: left;
+}
+
+/* Configurações específicas por coluna */
+/* Tabelas de 2 colunas (USG, TC, RM, Cardio) */
+#tabela-usg th:nth-child(1), #tabela-usg td:nth-child(1),
+#tabela-tc th:nth-child(1), #tabela-tc td:nth-child(1),
+#tabela-rm th:nth-child(1), #tabela-rm td:nth-child(1),
+#tabela-cardio th:nth-child(1), #tabela-cardio td:nth-child(1) {
+  width: var(--col1-width);
+}
+
+#tabela-usg th:nth-child(2), #tabela-usg td:nth-child(2),
+#tabela-tc th:nth-child(2), #tabela-tc td:nth-child(2),
+#tabela-rm th:nth-child(2), #tabela-rm td:nth-child(2),
+#tabela-cardio th:nth-child(2), #tabela-cardio td:nth-child(2) {
+  width: var(--col2-width);
+  white-space: nowrap;
+  text-align: center;
+}
+
+/* Tabela Curativos */
+#tabela-curativo th:nth-child(1), #tabela-curativo td:nth-child(1) {
+  width: var(--col1-width);
+  text-align: center;
+}
+
+#tabela-curativo th:nth-child(2), #tabela-curativo td:nth-child(2) {
+  width: var(--col2-width);
+}
+
+#tabela-curativo th:nth-child(3), #tabela-curativo td:nth-child(3) {
+  width: var(--col3-width);
+  white-space: nowrap;
+  text-align: center;
+}
+
+/* 🎯 TABELA PREVENTIVO - VERSÃO OTIMIZADA */
+#tabela-preventivo th:nth-child(1) {
+  width: var(--col1-width);
+  text-align: center;
+  vertical-align: middle;
+}
+
+#tabela-preventivo td:nth-child(1) {
+  width: var(--col1-width);
+  text-align: left;
+  vertical-align: middle;
+}
+
+#tabela-preventivo th:nth-child(2), #tabela-preventivo td:nth-child(2) {
+  width: var(--col2-width);
+  vertical-align: middle;
+}
+
+#tabela-preventivo th:nth-child(3), #tabela-preventivo td:nth-child(3) {
+  width: var(--col3-width);
+  text-align: center;
+  vertical-align: middle;
+}
+
+#tabela-preventivo th:nth-child(4), #tabela-preventivo td:nth-child(4) {
+  width: var(--col4-width);
+  white-space: nowrap;
+  text-align: center;
+}
+
+#tabela-preventivo th:nth-child(5), #tabela-preventivo td:nth-child(5) {
+  width: var(--col5-width);
+  white-space: nowrap;
+  text-align: center;
+}
+
+/* 🎯 Células interativas (TUSS, TASY, SIGLA) */
+.celula-tuss, .celula-tasy {
+  position: relative;
+  text-align: center !important;
+  white-space: nowrap !important;
+  vertical-align: middle !important;
+  overflow: hidden;
+  transition: var(--transition-smooth);
+}
+
+.celula-sigla {
+  position: relative;
+  text-align: center !important;
+  white-space: nowrap !important;
+  vertical-align: middle !important;
+  overflow: hidden; /* Volta para hidden como as outras células */
+  transition: var(--transition-smooth);
+}
+
+.numero-tuss, .numero-tasy {
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: 0.15rem;
+  font-size: 1rem;
+  transition: var(--transition-smooth);
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+}
+
+.numero-sigla {
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: 0.15rem;
+  font-size: 1rem;
+  transition: var(--transition-smooth);
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+}
+
+/* 🔄 BOTÃO DE COPIAR CENTRALIZADO E FLUIDO */
+.btn-copiar {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%);
+  background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: clamp(0.7rem, 0.9vw, 0.9rem);
+  font-weight: 600;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: 
+    background 0.2s ease,
+    width 0.3s ease,
+    padding 0.3s ease,
+    color 0.3s ease,
+    opacity 0.2s ease;
+  z-index: 2;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 60px;
+  width: auto;
+}
+
+.celula-sigla .btn-copiar {
+  position: absolute;
+  margin: auto 30px;
+  top: 50%;
+  transform: translate(-50% -50%);
+  background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: clamp(0.7rem, 0.9vw, 0.9rem);
+  font-weight: 600;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: 
+    background 0.2s ease,
+    padding 0.3s ease,
+    opacity 0.2s ease;
+  z-index: 3;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.3);
+  width: auto;
+}
+
+.celula-sigla .btn-copiar.copiado {
+  background: #28a745 !important;
+  color: white;
+  opacity: 1 !important;
+  margin: auto 15px;
+  padding: 8px 16px !important; /* Expansão igual aos outros */
+  font-size: clamp(0.7rem, 0.9vw, 0.9rem) !important;
+  font-weight: 600;
+  transform: translateY(-50%) !important; /* Manter posição vertical */
+}
+
+/* Hover do botão SIGLA */
+.celula-sigla .btn-copiar:hover:not(.copiado) {
+  background: linear-gradient(135deg, #0056b3 0%, #003d82 100%);
+}
+
+#tabela-preventivo tbody tr .celula-sigla.botao-copiado .numero-sigla {
+  transform: translateY(-21px) !important; /* Força a sigla a ficar na posição elevada */
+}
+
+/* Mostrar botão ao passar o mouse */
+.btn-copiar:hover, 
+.btn-copiar:hover:not(.copiado) {
+  opacity: 1;
+}
+
+/* Estado copiado */
+.btn-copiar.copiado {
+  background: #28a745 !important;
+  color: white;
+  opacity: 1 !important;
+  padding: 8px 14px;
+  font-size: clamp(0.7rem, 0.9vw, 0.9rem);
+  font-weight: 600;
+}
+
+/* Clique suave */
+.btn-copiar:active {
+  transform: translateY(-50%) scale(1.0);
+}
+
+/* 🎯 Estados de hover das tabelas */
+#tabela-usg tbody tr:hover, #tabela-tc tbody tr:hover,
+#tabela-rm tbody tr:hover, #tabela-cardio tbody tr:hover,
+#tabela-preventivo tbody tr:hover, #tabela-curativo tbody tr:hover {
+  background: rgba(50, 130, 184, 0.08);
+  transition: background 0.2s ease;
+}
+
+/* Hover para mostrar botão e mover números */
+#tabela-usg tbody tr:hover .btn-copiar,
+#tabela-tc tbody tr:hover .btn-copiar,
+#tabela-rm tbody tr:hover .btn-copiar,
+#tabela-cardio tbody tr:hover .btn-copiar,
+#tabela-preventivo tbody tr:hover .btn-copiar,
+#tabela-curativo tbody tr:hover .btn-copiar {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Movimento suave dos números no hover */
+#tabela-usg tbody tr:hover .numero-tuss,
+#tabela-tc tbody tr:hover .numero-tuss,
+#tabela-rm tbody tr:hover .numero-tuss,
+#tabela-cardio tbody tr:hover .numero-tuss,
+#tabela-preventivo tbody tr:hover .numero-tuss,
+#tabela-curativo tbody tr:hover .numero-tuss {
+  transform: translateX(-18px);
+}
+
+/* Movimento suave dos números TASY e SIGLA no hover */
+#tabela-preventivo tbody tr:hover .numero-tasy {
+  transform: translateX(-15px);
+}
+
+#tabela-preventivo tbody tr:hover .numero-sigla {
+  transform: translateY(-21px);
+}
+
+#tabela-preventivo tbody tr:hover .celula-sigla .btn-copiar {
+  opacity: 1;
+  visibility: visible;
+  top: 80%;
+}
+
+/* Container da sigla otimizado */
+.sigla-container {
+  display: flex;
+  flex-direction: column; /* Coluna para empilhar verticalmente */
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  min-height: 40px;
+}
+
+/* Remove bordas das últimas células */
+#tabela-usg th:last-child, #tabela-usg td:last-child,
+#tabela-tc th:last-child, #tabela-tc td:last-child,
+#tabela-rm th:last-child, #tabela-rm td:last-child,
+#tabela-cardio th:last-child, #tabela-cardio td:last-child,
+#tabela-preventivo th:last-child, #tabela-preventivo td:last-child,
+#tabela-curativo th:last-child, #tabela-curativo td:last-child {
+  border-right: none;
+}
+
+#tabela-usg tbody tr:last-child td, #tabela-tc tbody tr:last-child td,
+#tabela-rm tbody tr:last-child td, #tabela-cardio tbody tr:last-child td,
+#tabela-preventivo tbody tr:last-child td, #tabela-curativo tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* 🎨 Classes utilitárias */
+.celula-centralizada {
+  text-align: center !important;
+}
+
+.mensagem-erro {
+  text-align: center !important;
+  color: #e74c3c !important;
+}
+
+.mensagem-vazia {
+  text-align: center !important;
+  color: #666 !important;
+}
+
+/* Tabela Cirurgia 306 */
+#tabela-cirurgia306 {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin-top: 1rem;
+  background: var(--clr-bg-light);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 4px 12px var(--shadow-dark);
+  border: 2px solid var(--border-color);
+  table-layout: fixed;
+}
+
+/* Container da tabela cirurgia306 - sem bordas extras */
+#cirurgia306 .tabela-container {
+  width: 100%;
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: none; /* Remove borda do container */
+  background: transparent;
+  box-shadow: none; /* Remove sombra do container */
+}
+
+#tabela-cirurgia306 th, #tabela-cirurgia306 td {
+  font-size: 1rem;
+  padding: 0.8rem 1rem;
+  color: #ddd;
+  border: none;
+  vertical-align: middle;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+#tabela-cirurgia306 th:not(:last-child), 
+#tabela-cirurgia306 td:not(:last-child) {
+  border-right: 1px solid var(--border-color);
+}
+
+#tabela-cirurgia306 tbody tr:not(:last-child) td {
+  border-bottom: 1px solid var(--border-color);
+}
+
+#tabela-cirurgia306 th {
+  background: linear-gradient(135deg, var(--clr-primary) 0%, var(--clr-primary-dark) 100%);
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#tabela-cirurgia306 td {
+  text-align: left;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+/* Larguras específicas das colunas */
+#tabela-cirurgia306 th:nth-child(1) { width: 15%; }  /* CRM */
+#tabela-cirurgia306 th:nth-child(2) { width: 50%; }  /* MÉDICO */
+#tabela-cirurgia306 th:nth-child(3) { width: 35%; }  /* ESPECIALIDADE */
+
+/* CRM centralizado */
+#tabela-cirurgia306 td:nth-child(1) {
+  text-align: center;
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+/* Médico */
+#tabela-cirurgia306 td:nth-child(2) {
+  padding-left: 1.2rem;
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+/* Especialidade */
+#tabela-cirurgia306 td:nth-child(3) {
+  vertical-align: middle;
+}
+
+/* Hover effect */
+#tabela-cirurgia306 tbody tr:hover {
+  background: rgba(50, 130, 184, 0.08);
+  box-shadow: inset 0 0 0 1px rgba(50, 130, 184, 0.2);
+  transition: all 0.2s ease;
+}
+
+#tabela-cirurgia306 tbody tr {
+  transition: all 0.3s ease;
+}

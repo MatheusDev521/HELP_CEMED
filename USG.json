@@ -1,0 +1,251 @@
+[
+    {
+        "exame": "ABDOME INFERIOR FEMININO (PELVE, BEXIGA, ÚTERO, OVÁRIO E ANEXOS) ",
+        "tuss": "40901181"
+    },
+    {
+        "exame": "ABDOME INFERIOR MASCULINO (PELVE, BEXIGA, PRÓSTATA E VESÍCULAS SEMINAIS)",
+        "tuss": "40901173"
+    },
+    {
+        "exame": "ABDOME SUPERIOR (FÍGADO, VIAS BILIARES, VESÍCULA, PÂNCREAS, BAÇO) ",
+        "tuss": "40901130"
+    },
+    {
+        "exame": "ABDOME TOTAL (INCLUI ABDOME INFERIOR) ",
+        "tuss": "40901122"
+    },
+    {
+        "exame": "APARELHO URINÁRIO (RINS, URETERES E BEXIGA)",
+        "tuss": "40901769"
+    },
+    {
+        "exame": "ARTICULAR (POR ARTICULAÇÃO)",
+        "tuss": "40901220"
+    },
+    {
+        "exame": "DERMATOLÓGICO - PELE E SUBCUTÂNEO",
+        "tuss": "40901190"
+    },
+    {
+        "exame": "DOPPLER COLORIDO ARTERIAL DE MEMBRO INFERIOR - UNILATERAL ",
+        "tuss": "40901475"
+    },
+    {
+        "exame": "DOPPLER COLORIDO ARTERIAL DE MEMBRO SUPERIOR - UNILATERAL ",
+        "tuss": "40901459"
+    },
+    {
+        "exame": "DOPPLER COLORIDO DE AORTA E ARTÉRIAS RENAIS ",
+        "tuss": "40901394"
+    },
+    {
+        "exame": "DOPPLER COLORIDO DE AORTA E ILÍACAS",
+        "tuss": "40901408"
+    },
+    {
+        "exame": "DOPPLER COLORIDO DE ARTÉRIAS PENIANAS (SEM FÁRMACO INDUÇÃO)",
+        "tuss": "40901513"
+    },
+    {
+        "exame": "DOPPLER COLORIDO DE ARTÉRIAS VISCERAIS (MESENTÉRICAS SUPERIOR E INFERIOR E TRONCO CELÍACO) ",
+        "tuss": "40901416"
+    },
+    {
+        "exame": "DOPPLER COLORIDO DE HEMANGIOMA ",
+        "tuss": "40901424"
+    },
+    {
+        "exame": "DOPPLER COLORIDO DE ÓRGÃO OU ESTRUTURA ISOLADA ",
+        "tuss": "40901386"
+    },
+    {
+        "exame": "DOPPLER COLORIDO DE VASOS CERVICAIS ARTERIAIS BILATERAL (CARÓTIDAS E VERTEBRAIS) ",
+        "tuss": "40901360"
+    },
+    {
+        "exame": "DOPPLER COLORIDO DE VASOS CERVICAIS VENOSOS BILATERAL (SUBCLÁVIAS E JUGULARES)",
+        "tuss": "40901378"
+    },
+    {
+        "exame": "DOPPLER COLORIDO DE VEIA CAVA SUPERIOR OU INFERIOR ",
+        "tuss": "40901432"
+    },
+    {
+        "exame": "DOPPLER COLORIDO INTRA-OPERATÓRIO",
+        "tuss": "40902064"
+    },
+    {
+        "exame": "DOPPLER COLORIDO PENIANO COM FÁRMACO-INDUÇÃO",
+        "tuss": "40901440"
+    },
+    {
+        "exame": "DOPPLER COLORIDO TRANSFONTANELA ",
+        "tuss": "40901351"
+    },
+    {
+        "exame": "DOPPLER COLORIDO VENOSO DE MEMBRO INFERIOR - UNILATERAL ",
+        "tuss": "40901483"
+    },
+    {
+        "exame": "DOPPLER COLORIDO VENOSO DE MEMBRO SUPERIOR - UNILATERAL ",
+        "tuss": "40901467"
+    },
+    {
+        "exame": "DOPPLER CONVENCIONAL ÓRGÃO/ESTRUTURA ISOLADA",
+        "tuss": "40901548"
+    },
+    {
+        "exame": "DOPPLER TRANSCRANIANO",
+        "tuss": "40901602"
+    },
+    {
+        "exame": "DRENAGEM PERCUTÂNEA ORIENTADA POR US (ACRESCENTAR O EXAME DE BASE)",
+        "tuss": "40902110"
+    },
+
+    {
+        "exame": "ELASTOGRAFIA HEPÁTICA POR ULTRASSONOGRAFIA",
+        "tuss": "40901793"
+    },
+    {
+        "exame": "ESTRUTURAS SUPERFICIAIS (CERVICAL OU AXILAS OU MÚSCULO OU TENDÃO) ",
+        "tuss": "40901211"
+    },
+    {
+        "exame": "ESTUDO SONOGRÁFICO DINÂMICO DAS VIAS URINÁRIAS (FEMININO)",
+        "tuss": "40901599"
+    },
+    {
+        "exame": "ESTUDO SONOGRÁFICO DINÂMICO DAS VIAS URINÁRIAS (MASCULINO)",
+        "tuss": "40901580"
+    },
+    {
+        "exame": "GLÂNDULAS SALIVARES (TODAS) ",
+        "tuss": "40901033"
+    },
+    {
+        "exame": "GLOBO OCULAR - BILATERAL",
+        "tuss": "40901017"
+    },
+    {
+        "exame": "GLOBO OCULAR COM DOPPLER COLORIDO - BILATERAL ",
+        "tuss": "40901025"
+    },
+    {
+        "exame": "HISTEROSSONOGRAFIA",
+        "tuss": "40901327"
+    },
+    {
+        "exame": "INTRA-OPERATÓRIO ",
+        "tuss": "40902056"
+    },
+    {
+        "exame": "MAMAS",
+        "tuss": "40901114"
+    },
+    {
+        "exame": "MONITORIZAÇÃO POR DOPPLER TRANSCRANIANO ",
+        "tuss": "40902137"
+    },
+    {
+        "exame": "OBSTÉTRICA",
+        "tuss": "40901238"
+    },
+    {
+        "exame": "OBSTÉTRICA 1º TRIMESTRE (ENDOVAGINAL) ",
+        "tuss": "40901297"
+    },
+    {
+        "exame": "OBSTÉTRICA 1º TRIMESTRE COM PUNÇÃO: BIÓPSIA OU ASPIRATIVA ",
+        "tuss": "40902021"
+    },
+    {
+        "exame": "OBSTÉTRICA COM TRANSLUCÊNCIA NUCAL",
+        "tuss": "40901254"
+    },
+    {
+        "exame": "OBSTÉTRICA CONVENCIONAL COM DOPPLER COLORIDO ",
+        "tuss": "40901246"
+    },
+    {
+        "exame": "OBSTÉTRICA GESTAÇÃO MÚLTIPLA COM DOPPLER COLORIDO: CADA FETO ",
+        "tuss": "40901289"
+    },
+    {
+        "exame": "OBSTÉTRICA GESTAÇÃO MÚLTIPLA: CADA FETO",
+        "tuss": "40901270"
+    },
+    {
+        "exame": "OBSTÉTRICA MORFOLÓGICA ",
+        "tuss": "40901262"
+    },
+    {
+        "exame": "OBSTÉTRICA: COM AMNIOCENTESE",
+        "tuss": "40902013"
+    },
+    {
+        "exame": "OBSTÉTRICA: PERFIL BIOFÍSICO FETAL ",
+        "tuss": "40901505"
+    },
+    {
+        "exame": "ÓRGÃOS SUPERFICIAIS (TIREÓIDE OU ESCROTO OU PÊNIS OU CRÂNIO)",
+        "tuss": "40901203"
+    },
+    {
+        "exame": "PROSTATA (VIA ABDOMINAL)",
+        "tuss": "40901750"
+    },
+    {
+        "exame": "PRÓSTATA TRANSRETAL (INCLUI ABDOME INFERIOR MASCULINO)",
+        "tuss": "40901335"
+    },
+    {
+        "exame": "PRÓSTATA TRANSRETAL COM BIÓPSIA - ATÉ 8 FRAGMENTOS",
+        "tuss": "40902030"
+    },
+    {
+        "exame": "PRÓSTATA TRANSRETAL COM BIÓPSIA - MAIS DE 8 FRAGMENTOS",
+        "tuss": "40902048"
+    },
+    {
+        "exame": "PUNÇÃO BIOPSIA/ASPIRATIVA DE ORGÃO OU ESTRUTURA ORIENTADA POR USG (NÃO INCLUI O EXAME DE BASE)",
+        "tuss": "40809161"
+    },
+    {
+        "exame": "PUNÇÃO OU BIÓPSIA MAMÁRIA PERCUTÂNEA POR AGULHA FINA ORIENTADA POR US (NÃO INCLUI O EXAME DE BASE)",
+        "tuss": "40808238"
+    },
+    {
+        "exame": "RETROPERITÔNIO (GRANDES VASOS OU ADRENAIS) ",
+        "tuss": "40901149"
+    },
+    {
+        "exame": "TORÁCICO EXTRACARDÍACO",
+        "tuss": "40901041"
+    },
+    {
+        "exame": "TRANSVAGINAL (INCLUI ABDOME INFERIOR FEMININO) ",
+        "tuss": "40901300"
+    },
+    {
+        "exame": "TRANSVAGINAL PARA CONTROLE DE OVULAÇÃO (3 OU MAIS EXAMES) (INCLUI ABDOME INFERIOR FEMININO)",
+        "tuss": "40901319"
+    },
+    {
+        "exame": "TRIDIMENSIONAL - ACRESCENTAR AO EXAME DE BASE ",
+        "tuss": "40901491"
+    },
+    {
+        "exame": "ULTRASSONOGRAFIA BIOMICROSCÓPICA - MONOCULAR",
+        "tuss": "40901521"
+    },
+    {
+        "exame": "ULTRASSONOGRAFIA DIAGNÓSTICA - MONOCULAR",
+        "tuss": "40901530"
+    },
+    {
+        "exame": "ULTRASSOM COM DOPPLER ABDOME TOTAL E PELVE FEMININO",
+        "tuss": "40901572"
+    }
+]

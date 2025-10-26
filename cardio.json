@@ -1,0 +1,54 @@
+[
+    {
+        "exame": "ECOCARDIOGRAFIA FETAL GESTAÇÃO MÚLTIPLA",
+        "tuss": "40901556"
+    },
+    {
+        "exame": "ECODOPPLERCARDIOGRAMA COM CONTRASTE INTRACAVITÁRIO",
+        "tuss": "40901050"
+    },
+    {
+        "exame": "ECODOPPLERCARDIOGRAMA COM CONTRASTE PARA PERFUSÃO MIOCÁRDICA",
+        "tuss": "40901068"
+    },
+    {
+        "exame": "ECODOPPLERCARDIOGRAMA COM ESTRESSE FARMACOLÓGICO",
+        "tuss": "40901076"
+    },
+    {
+        "exame": "ECODOPPLERCARDIOGRAMA FETAL COM MAPEAMENTO DE FLUXO EM CORES",
+        "tuss": "40901084"
+    },
+    {
+        "exame": "ECODOPPLERCARDIOGRAMA TRANSESOFÁGICO (INCLUI TRANSTORÁCICO)",
+        "tuss": "40901092"
+    },
+    {
+        "exame": "ECODOPPLERCARDIOGRAMA TRANSOPERATÓRIO (TRANSESOFÁGICO OU EPICÁRDICO) - POR HORA SUPLEMENTAR",
+        "tuss": "40902080"
+    },
+    {
+        "exame": "ECODOPPLERCARDIOGRAMA TRANSOPERATÓRIO (TRANSESOFÁGICO OU EPICÁRDICO) (1ª HORA)",
+        "tuss": "40902072"
+    },
+    {
+        "exame": "ECODOPPLERCARDIOGRAMA TRANSTORÁCICO",
+        "tuss": "40901106"
+    },
+    {
+        "exame": "ELETROCARDIOGRAMA (ECG)",
+        "tuss": "40101010"
+    },
+    {
+        "exame": "HOLTER 24 HORAS",
+        "tuss": "20102020"
+    },
+    {
+        "exame": "MAPA 24 HORAS",
+        "tuss": "20102038"
+    },
+    {
+        "exame": "TESTE ERGOMÉTRICO (TESTE DE ESFORÇO)",
+        "tuss": "40101037"
+    }
+]

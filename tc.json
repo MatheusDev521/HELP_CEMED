@@ -1,0 +1,182 @@
+[
+    {
+        "exame": "ABDOME SUPERIOR ",
+        "tuss": "41001109"
+    },
+    {
+        "exame": "ABDOME TOTAL (ABDOME SUPERIOR, PELVE E RETROPERITÔNIO) ",
+        "tuss": "41001095"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA ARTERIAL DE ABDOME SUPERIOR",
+        "tuss": "41001435"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA ARTERIAL DE CRÂNIO",
+        "tuss": "41001370"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA ARTERIAL DE MEMBRO INFERIOR",
+        "tuss": "41001478"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA ARTERIAL DE MEMBRO SUPERIOR",
+        "tuss": "41001494"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA ARTERIAL DE PELVE",
+        "tuss": "41001451"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA ARTERIAL DE PESCOCO",
+        "tuss": "41001397"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA ARTERIAL DE TÓRAX",
+        "tuss": "41001419"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA ARTERIAL PULMONAR",
+        "tuss": "41001516"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA CORONARIANA",
+        "tuss": "41001230"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA DE AORTA ABDOMINAL",
+        "tuss": "41001184"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA DE AORTA TORÁCICA",
+        "tuss": "41001176"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA VENOSA DE ABDOME SUPERIOR",
+        "tuss": "41001443"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA VENOSA DE CRÂNIO",
+        "tuss": "41001389"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA VENOSA DE MEMBRO INFERIOR",
+        "tuss": "41001486"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA VENOSA DE MEMBRO SUPERIOR",
+        "tuss": "41001508"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA VENOSA DE PELVE",
+        "tuss": "41001460"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA VENOSA DE PESCOCO",
+        "tuss": "41001400"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA VENOSA DE TÓRAX",
+        "tuss": "41001427"
+    },
+    {
+        "exame": "ANGIOTOMOGRAFIA VENOSA PULMONAR",
+        "tuss": "41001524"
+    },
+    {
+    "exame": "ARTICULAÇÃO (POR ARTICULAÇÃO UNILATERAL: ESTERNOCLAVICULAR, OMBRO, COTOVELO, PUNHO, SACROILÍACAS, COXOFEMORAL, QUADRIL, JOELHO, TORNOZELO) – UNILATERAL",
+    "tuss": "41001141"
+    },
+    {
+        "exame": "ARTICULAÇÕES TEMPOROMANDIBULARES ",
+        "tuss": "41001044"
+    },
+    {
+        "exame": "ARTRO-TOMOGRAFIA",
+        "tuss": "41002059"
+    },
+    {
+        "exame": "COLUNA - SEGMENTO ADICIONAL ",
+        "tuss": "41001133"
+    },
+    {
+        "exame": "COLUNA CERVICAL OU DORSAL OU LOMBAR (ATÉ 3 SEGMENTOS)",
+        "tuss": "41001125"
+    },
+    {
+        "exame": "CORAÇÃO - PARA AVALIAÇÃO DO ESCORE DE CÁLCIO CORONARIANO ",
+        "tuss": "41001087"
+    },
+    {
+        "exame": "CRÂNIO OU SELA TÚRSICA OU ÓRBITAS ",
+        "tuss": "41001010"
+    },
+    {
+        "exame": "DENTAL (DENTASCAN) ",
+        "tuss": "41001052"
+    },
+    {
+        "exame": "DRENAGEM PERCUTÂNEA ORIENTADA POR TOMOGRAFIA (ACRESCENTAR O EXAME DE BASE)",
+        "tuss": "41002032"
+    },
+    {
+        "exame": "ENDOSCOPIA VIRTUAL POR TOMOGRAFIA - ACRESCENTAR AO EXAME DE BASE",
+        "tuss": "41001214"
+    },
+    {
+        "exame": "ESCANOMETRIA DIGITAL ",
+        "tuss": "41001192"
+    },
+    {
+        "exame": "FACE OU SEIOS DA FACE",
+        "tuss": "41001036"
+    },
+    {
+        "exame": "MASTÓIDES OU ORELHAS",
+        "tuss": "41001028"
+    },
+    {
+        "exame": "MANDÍBULA",
+        "tuss": "41001273"
+    },
+    {
+        "exame": "MAXILAR",
+        "tuss": "41001281"
+    },
+    {
+        "exame": "PELVE OU BACIA",
+        "tuss": "41001117"
+    },
+    {
+        "exame": "PESCOÇO (PARTES MOLES, LARINGE, TIREÓIDE E FARINGE)",
+        "tuss": "41001060"
+    },
+    {
+        "exame": "PUNÇÃO ASPIRATIVA ORIENTADA POR TOMOGRAFIA (ACRESCENTAR O EXAME DE BASE)",
+        "tuss": "41002024"
+    },
+    {
+        "exame": "PUNCAO BIOPSIA/ASPIRATIVA DE ORGAO OU ESTRUTURA ORIENTADA POR TOMOGRAFIA (NAO INCLUI O EXAME DE BASE)",
+        "tuss": "40809170"
+    },
+    {
+        "exame": "RECONSTRUÇÃO TRIDIMENSIONAL - ACRESCENTAR AO EXAME DE BASE",
+        "tuss": "41001206"
+    },
+    {
+        "exame": "SEGMENTOS APENDICULARES (BRAÇO OU ANTEBRAÇO OU MÃO OU COXA OU PERNA OU PÉ)",
+        "tuss": "41001150"
+    },
+    {
+        "exame": "TOMOGRAFIA PARA PET DEDICADO ONCOLÓGICO",
+        "tuss": "41001222"
+    },
+    {
+        "exame": "TOMOMIELOGRAFIA (ATÉ 3 SEGMENTOS) - ACRESCENTAR A TOMOGRAFIA DA COLUNA E INCLUIR A PUNÇÃO",
+        "tuss": "41002016"
+    },
+    {
+        "exame": "TÓRAX ",
+        "tuss": "41001079"
+    }
+]
