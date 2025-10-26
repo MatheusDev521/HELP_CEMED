@@ -1,0 +1,50 @@
+[
+    {
+        "crm": 24504,
+        "medico": "FELIPE CARVALHO DE OLIVEIRA",
+        "dia": "SEGUNDA-FEIRA",
+        "turno": "MANHÃ"
+    },
+    {
+        "crm": 15740,
+        "medico": "FÁBIO LUIS DE JESUS SOARES",
+        "dia": "SEGUNDA-FEIRA",
+        "turno": "TARDE"
+    },
+    {
+        "crm": 19670,
+        "medico": "RAFAEL MODESTO FERNANDES",
+        "dia": "TERÇA-FEIRA",
+        "turno": "MANHÃ"
+    },
+    {
+        "crm": 27394,
+        "medico": "CAIO REBOUÇAS FONSECA CAFEZEIRO",
+        "dia": "TERÇA-FEIRA",
+        "turno": "TARDE"
+    },
+    {
+        "crm": 20435,
+        "medico": "JUN RAMOS KAWAOKA",
+        "dia": "QUARTA-FEIRA",
+        "turno": "MANHÃ"
+    },
+    {
+        "crm": 11937,
+        "medico": "MARCO ANDRÉ MORAES SALES",
+        "dia": "QUARTA-FEIRA",
+        "turno": "TARDE"
+    },
+    {
+        "crm": 15682,
+        "medico": "GILDO DE OLIVEIRA MOTA",
+        "dia": "QUINTA-FEIRA",
+        "turno": "MANHÃ"
+    },
+    {
+        "crm": 20543,
+        "medico": "BRUNO DE FREITAS LEITE",
+        "dia": "SEXTA-FEIRA",
+        "turno": "MANHÃ"
+    }
+]

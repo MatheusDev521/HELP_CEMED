@@ -906,6 +906,145 @@ section p {
   transition: all 0.3s ease;
 }
 
+/* ========================================
+   📋 TABELA MÉDICOS ECOCARDIOGRAMA
+   ======================================== */
+
+/* Buscador específico */
+#BuscadorMedicoECO {
+  width: 100%;
+  padding: 1rem 1rem 1rem 39px;
+  margin-bottom: 1.5rem;
+  border: 2px solid #3a3a3a;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  background: #2f2f2f;
+  color: var(--clr-text);
+}
+
+#BuscadorMedicoECO:focus {
+  outline: none;
+  border-color: var(--clr-primary);
+  box-shadow: 0 0 0 3px rgba(50, 130, 184, 0.3);
+}
+
+#BuscadorMedicoECO:focus + .search-icon {
+  color: var(--clr-primary);
+}
+
+#BuscadorMedicoECO::placeholder {
+  color: #999;
+  font-style: italic;
+}
+
+/* Container da tabela médicos ECO */
+#MedicosECO .tabela-container {
+  width: 100%;
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+
+/* Estrutura da tabela */
+#tabela-medicos-eco {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin-top: 1rem;
+  background: var(--clr-bg-light);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 4px 12px var(--shadow-dark);
+  border: 2px solid var(--border-color);
+  table-layout: fixed;
+}
+
+/* Células base */
+#tabela-medicos-eco th, 
+#tabela-medicos-eco td {
+  font-size: 1rem;
+  padding: 0.8rem 1rem;
+  color: #ddd;
+  border: none;
+  vertical-align: middle;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+/* Bordas seletivas */
+#tabela-medicos-eco th:not(:last-child), 
+#tabela-medicos-eco td:not(:last-child) {
+  border-right: 1px solid var(--border-color);
+}
+
+#tabela-medicos-eco tbody tr:not(:last-child) td {
+  border-bottom: 1px solid var(--border-color);
+}
+
+/* Header */
+#tabela-medicos-eco th {
+  background: linear-gradient(135deg, var(--clr-primary) 0%, var(--clr-primary-dark) 100%);
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Células de dados */
+#tabela-medicos-eco td {
+  text-align: left;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+/* Larguras das colunas */
+#tabela-medicos-eco th:nth-child(1) { width: 12%; }  /* CRM */
+#tabela-medicos-eco th:nth-child(2) { width: 48%; }  /* MÉDICOS */
+#tabela-medicos-eco th:nth-child(3) { width: 22%; }  /* DIA */
+#tabela-medicos-eco th:nth-child(4) { width: 18%; }  /* TURNO */
+
+/* CRM - centralizado */
+#tabela-medicos-eco td:nth-child(1) {
+  text-align: center;
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+/* MÉDICOS */
+#tabela-medicos-eco td:nth-child(2) {
+  padding-left: 1.2rem;
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+/* DIA */
+#tabela-medicos-eco td:nth-child(3) {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* TURNO */
+#tabela-medicos-eco td:nth-child(4) {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Hover effect */
+#tabela-medicos-eco tbody tr:hover {
+  background: rgba(50, 130, 184, 0.08);
+  box-shadow: inset 0 0 0 1px rgba(50, 130, 184, 0.2);
+  transition: all 0.2s ease;
+}
+
+#tabela-medicos-eco tbody tr {
+  transition: all 0.3s ease;
+}
+
 /* Container de convênios centralizado */
 .convenios-container {
   position: relative;

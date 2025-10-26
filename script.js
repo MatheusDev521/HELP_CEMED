@@ -3,6 +3,7 @@ const SENHA_CORRETA = "Ecvitori@10"; // Altere para sua senha desejada
 
 // Arrays para armazenar os dados carregados do JSON
 let medicos = [];
+let medicosECO = [];
 let medicosCircurgia306 = [];
 let examesTodosUSG = [];
 let examesTodosTC = [];
@@ -36,6 +37,8 @@ const buscadorCura = document.getElementById('BuscadorCura');
 const tabelaCura = document.getElementById('tabela-curativo');
 const tabelaConvenios = document.getElementById('tabela-convenios');
 const tabelaSistemas = document.getElementById('tabela-sistemas');
+const tabelaMedicosECO = document.getElementById('tabela-medicos-eco');
+const buscadorMedicoECO = document.getElementById('BuscadorMedicoECO');
 const tabelaCircurgia306 = document.getElementById('tabela-cirurgia306');
 const buscadorCircurgia306 = document.getElementById('BuscadorCircurgia306');
 ;
@@ -109,6 +112,8 @@ function inicializarSistema() {
 
     configurarBuscaCircurgia306();
     carregarTabelaCircurgia306();
+    configurarBuscaMedicosECO();
+    carregarTabelaMedicosECO();
 }
 
 function configurarNavegacaoSuave() {
@@ -127,14 +132,25 @@ function configurarNavegacaoSuave() {
             }
 
             else if (targetId === '#cirurgia306') {
-            // Mostrar as seções informa E cirurgia306
-            mostrarSection('informa');
-            mostrarSection('cirurgia306');
-            // Fazer scroll suave para a seção cirurgia306
-            setTimeout(() => {
-                const targetElement = document.getElementById('cirurgia306');
+                // Mostrar as seções TodosOsMedicos E cirurgia306
+                mostrarSection('TodosOsMedicos');
+                mostrarSection('cirurgia306');
+                // Fazer scroll suave para a seção cirurgia306
+                setTimeout(() => {
+                    const targetElement = document.getElementById('cirurgia306');
+                    if (targetElement) {
+                        targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                }, 100);
+            }
+
+            else if (targetId === '#MedicosECO') {
+                mostrarSection('TodosOsMedicos');
+                mostrarSection('MedicosECO');
+                setTimeout(() => {
+                    const targetElement = document.getElementById('MedicosECO');
                 if (targetElement) {
-                targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
                 }
                 }, 100);
             }
@@ -238,7 +254,14 @@ function configurarNavegacaoSuave() {
                 }, 100);
             } else {
                 const sectionId = targetId.replace('#', '');
-                mostrarSection(sectionId);
+                
+                // Se for a seção 'equipe', mostrar também TodosOsMedicos
+                if (sectionId === 'equipe') {
+                    mostrarSection('TodosOsMedicos');
+                    mostrarSection('equipe');
+                } else {
+                    mostrarSection(sectionId);
+                }
             }
         });
     });
@@ -375,7 +398,155 @@ btnLimparTextoConvertido.addEventListener('click', function() {
     document.getElementById("inputTexto").focus(); // Foca no campo de entrada
 });
 
+function configurarBuscaMedicosECO() {
+    if (buscadorMedicoECO) {
+        buscadorMedicoECO.addEventListener('input', function() {
+            const termoBusca = removerAcentos(this.value.toLowerCase().trim());
+            filtrarMedicosECO(termoBusca);
+        });
+    }
+}
 
+function configurarBuscaMedicosECO() {
+    if (buscadorMedicoECO) {
+        buscadorMedicoECO.addEventListener('input', function() {
+            const termoBusca = removerAcentos(this.value.toLowerCase().trim());
+            filtrarMedicosECO(termoBusca);
+        });
+    }
+}
+
+// 7️⃣ NOVA FUNÇÃO: Carregar tabela de médicos ECO
+function carregarTabelaMedicosECO() {
+    if (!tabelaMedicosECO) return;
+    
+    fetch('medicosECO.json')
+        .then(resposta => resposta.json())
+        .then(dados => {
+            medicosECO = dados;
+            const tbody = tabelaMedicosECO.querySelector('tbody');
+            tbody.innerHTML = '';
+            
+            dados.forEach(item => {
+                const linha = document.createElement("tr");
+                linha.classList.add("linha-com-hover");
+                
+                // CRM
+                const celulaCRM = document.createElement('td');
+                celulaCRM.classList.add('celula-centralizada');
+                celulaCRM.textContent = item.crm;
+                
+                // MÉDICO
+                const celulaMedico = document.createElement('td');
+                celulaMedico.textContent = item.medico;
+                const botaoMedico = criarBotaoCopiar(item.medico);
+                botaoMedico.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                });
+                celulaMedico.appendChild(document.createTextNode(' '));
+                celulaMedico.appendChild(botaoMedico);
+                
+                // DIA
+                const celulaDia = document.createElement('td');
+                celulaDia.textContent = item.dia;
+                
+                // TURNO
+                const celulaTurno = document.createElement('td');
+                celulaTurno.textContent = item.turno;
+                
+                // Montar linha
+                linha.appendChild(celulaCRM);
+                linha.appendChild(celulaMedico);
+                linha.appendChild(celulaDia);
+                linha.appendChild(celulaTurno);
+                
+                tbody.appendChild(linha);
+            });
+        })
+        .catch(erro => {
+            console.error("Erro ao carregar o arquivo medicosECO.json:", erro);
+            const tbody = tabelaMedicosECO.querySelector('tbody');
+            tbody.innerHTML = '<tr><td colspan="4" class="mensagem-erro">Erro ao carregar dados dos médicos ECO</td></tr>';
+        });
+}
+
+// 8️⃣ NOVA FUNÇÃO: Filtrar médicos ECO
+function filtrarMedicosECO(termo) {
+    if (!tabelaMedicosECO) return;
+    
+    const tbody = tabelaMedicosECO.querySelector('tbody');
+    
+    if (medicosECO.length === 0) {
+        setTimeout(() => filtrarMedicosECO(termo), 100);
+        return;
+    }
+    
+    // Se o termo estiver vazio, recarrega todos os médicos
+    if (!termo || termo.trim() === '') {
+        carregarTabelaMedicosECO();
+        return;
+    }
+    
+    // Dividir o termo de busca em palavras individuais
+    const palavrasBusca = termo.split(/\s+/).filter(palavra => palavra.length > 0);
+    
+    // Filtra os médicos
+    const medicosFiltrados = medicosECO.filter(item => {
+        const crm = removerAcentos(String(item.crm || "").toLowerCase());
+        const medico = removerAcentos(String(item.medico || "").toLowerCase());
+        const dia = removerAcentos(String(item.dia || "").toLowerCase());
+        const turno = removerAcentos(String(item.turno || "").toLowerCase());
+        
+        // Criar texto completo para busca
+        const textoCompleto = `${crm} ${medico} ${dia} ${turno}`;
+        
+        // Verificar se TODAS as palavras estão presentes
+        return palavrasBusca.every(palavra => textoCompleto.includes(palavra));
+    });
+    
+    // Limpar tabela e recriar as linhas
+    tbody.innerHTML = '';
+    
+    medicosFiltrados.forEach(item => {
+        const linha = document.createElement("tr");
+        linha.classList.add("linha-com-hover");
+        
+        // CRM
+        const celulaCRM = document.createElement('td');
+        celulaCRM.classList.add('celula-centralizada');
+        celulaCRM.textContent = item.crm;
+        
+        // MÉDICO
+        const celulaMedico = document.createElement('td');
+        celulaMedico.textContent = item.medico;
+        const botaoMedico = criarBotaoCopiar(item.medico);
+        botaoMedico.addEventListener('click', function(e) {
+            e.stopPropagation();
+        });
+        celulaMedico.appendChild(document.createTextNode(' '));
+        celulaMedico.appendChild(botaoMedico);
+        
+        // DIA
+        const celulaDia = document.createElement('td');
+        celulaDia.textContent = item.dia;
+        
+        // TURNO
+        const celulaTurno = document.createElement('td');
+        celulaTurno.textContent = item.turno;
+        
+        linha.appendChild(celulaCRM);
+        linha.appendChild(celulaMedico);
+        linha.appendChild(celulaDia);
+        linha.appendChild(celulaTurno);
+        
+        tbody.appendChild(linha);
+    });
+    
+    // Se não encontrou resultados
+    if (medicosFiltrados.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="4" class="mensagem-vazia">Nenhum médico encontrado</td></tr>';
+    }
+}
 
 function carregarTabelaConvenios() {
     if (!tabelaConvenios) return;
@@ -575,7 +746,7 @@ function toggleSenha(spanSenha, botaoMostrar) {
 }
 
 function ocultarTodasSections() {
-    const sections = ['bloqueador', 'senhas', 'equipe', 'capitacao', 'codigos', 'ramais', 'usg', 'tc', 'cardio', 'curativo', 'rm', 'prev', 'informa','cirurgia306', 'capita'];
+    const sections = ['bloqueador', 'senhas', 'equipe', 'capitacao', 'codigos', 'ramais', 'usg', 'tc', 'cardio', 'curativo', 'rm', 'prev', 'informa','cirurgia306', 'capita', 'TodosOsMedicos', 'MedicosECO'];
     sections.forEach(id => {
         const section = document.getElementById(id);
         if (section) {
@@ -1317,7 +1488,6 @@ function formatarConveniosExpandiveis(convenios) {
     console.log('✅ HTML gerado com sucesso');
     return html;
 }
-
 
 /**
  * VERSÃO MELHORADA - Event handler para expandir/recolher
