@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Academia Rede D'or",
+        "url": "https://academia.rededor.com.br/learn/signin",
+        "login": "86249264590",
+        "senha": "Ecvitori@10"
+    },
+    {
+        "nome": "Effort",
+        "url": "https://rededorpcm.globalthings.net/Login.aspx",
+        "login": "matheus.chagass",
+        "senha": "debinh@10"
+    },
+    {
+        "nome": ["Outlook","TASY"],
+        "url": "https://outlook.office.com/mail/",
+        "login": "matheus.chagass",
+        "senha": "Ecvitori@200"
+    },
+    {
+        "nome": "Portal Conecta",
+        "url": "https://portalconecta.rededor.com.br/conecta-interno/default.aspx",
+        "login": "86249264590",
+        "senha": "DEBINHA"
+    }
+]

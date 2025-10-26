@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css" media="(max-width: 768px)">  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Help</title>
+</head>
+<body>
+  <h1><a href="index.html" style="color: inherit; text-decoration: none;">HELP CEMED</a></h1>
+
+  <nav>
+    <ul>
+      <li><a href="#bloqueador">Senhas e Logins</a></li>
+      <li><a href="#equipe">Equipe Médica</a></li>
+      <li><a href="#codigos">Códigos para Exames</a></li>
+      <li><a href="#informa">Ferramentas</a></li>
+      <li><a href="#ramais">Ramais</a></li>
+    </ul>
+  </nav>
+
+  <section id="informa">
+    <h2>INFORMAÇÕES E DICAS</h2>
+    <p>Guia com dicas e informações úteis para facilitar os fluxos administrativos.</p>
+    <nav id="tuss">
+      <ul>
+        <li style="text-align: center;"><a id="sala306" href="#cirurgia306">MÉDICOS DE ELÍZIA</a></li>
+        <li style="text-align: center;"><a id="CapitaTexto" href="#capita">CONVERSOR DE TEXTO</a></li>
+      </ul>
+    </nav>
+  </section>
+
+  <section id="capita">
+    <h2>CONVERSOR DE TEXTO</h2>
+    <p>Ferramenta simples para converter textos em letras MAIÚSCULAS, minúsculas ou Capitalizadas.</p>
+    <div class="conversor-container" style="display: flex; justify-content: space-evenly;">
+      <div id="painel1conversor" style="width: 45%;">
+        <label for="inputTexto">Digite ou cole seu texto aqui:</label>
+        <textarea id="inputTexto" rows="5" cols="50" placeholder="Digite ou cole seu texto aqui..."></textarea>
+        <button id="btnMaiusculas">MAIÚSCULAS</button>
+        <button id="btnMinusculas">minúsculas</button>
+        <button id="btnCapitalizar">Primeira Letra Maiúscula</button>
+      </div>
+      <div id="painel2conversor" style="width: 50%;">
+        <label for="outputTexto">Texto convertido:</label>
+        <p id="outputTexto" style="text-align: left;"></p>
+        <div id="botoesPainel2">
+          <button id="btnCopiarTextoConvertido">Copiar</button>
+          <button id="btnLimparTextoConvertido">Limpar</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section id="cirurgia306">
+    <h2>LISTAS DE CIRURGIÕES ACOMPANHADOS PELA CONCIERGE ELÍZIA</h2>
+    <p>Lista de médicos cirurgiões que realizam o processo de pré internamento com a concierge Elízia, localizada atualmente no térreo do Centro Médico Aliança.</p>
+    <label for="BuscadorCircurgia306">Pesquisa:</label>
+    <div class="search-container">
+    <input id="BuscadorCircurgia306" type="text" placeholder="Buscar Médico ou Especialidade...">
+    <span class="search-icon">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+        </svg>
+    </span>
+  </div>
+    <div class="tabela-container">
+      <table id="tabela-cirurgia306">
+        <thead>
+          <tr>
+            <th>CRM</th>
+            <th>MÉDICO</th>
+            <th>ESPECIALIDADE</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+  </section>
+
+  <section id="bloqueador">
+    <h3>⚠️ ACESSO RESTRITO ⚠️</h3>
+    <p>Insira a Senha:</p>
+    <input type="password" id="SenhaAcesso">
+    <button id="botaoEnviar">ENVIAR</button>
+    <p id="MensageSenhaIncorreta" style="display: none;">Senha Incorreta!</p>
+    <p id="MensageSenhaCorreta" style="display: none;">Acesso Liberado!</p>
+  </section>
+
+  <section id="senhas">
+    <h2>Senhas e Logins</h2>
+    <p>Relação de todos os logins e senhas de uso restrito e pessoal do funcionário Matheus Chagas.</p>
+    <div class="tabela-container">
+    <h3>CONVÊNIOS MÉDICOS</h3>
+    <table id="tabela-convenios">
+      <thead>
+        <tr>
+          <th>CONVÊNIO</th>
+          <th>CÓDIGO ADICIONAL</th>
+          <th>LOGIN</th>
+          <th>SENHA</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <br>
+    <h3>SISTEMAS INTERNOS</h3>
+    <table id="tabela-sistemas">
+      <thead>
+        <tr>
+          <th>PROGRAMA</th>
+          <th>LOGIN</th>
+          <th>SENHA</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  </section>
+
+  <section id="equipe">
+  <h2>Equipe Médica | CEMED</h2>
+  <p>Segue abaixo a lista completa da equipe Médica do <strong>CEMED</strong> (1º andar), com dias de atendimento, horários e convênios aceitos. Para facilitar o agendamento, dê dois cliques sobre a linha correspondente ao médico desejado: o nome do profissional será copiado automaticamente e você será redirecionado para o site de agendamento.</p>
+  
+  <label for="BuscadorMedico">Pesquisa:</label>
+  <div class="search-container">
+    <input id="BuscadorMedico" type="text" placeholder="Buscar Médico ou Especialidade...">
+    <span class="search-icon">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+        </svg>
+    </span>
+  </div>
+  
+  <div class="tabela-container">
+    <table id="tabela-medicos">
+      <thead>
+        <tr>
+          <th>SALAS</th>
+          <th>MÉDICOS</th>
+          <th>CRM</th>
+          <th>ESPECIALIDADES</th>
+          <th>CONVÊNIOS</th>
+          <th>TELEFONES</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</section>
+
+  <section id="codigos">
+    <h2>Códigos para Exames</h2>
+    <p>Lista de códigos da Tabela TUSS e do sistema TASY, para solicitação de Exames.</p>
+    <nav id="tuss">
+      <ul>
+        <li><a id="idcura" href="#curativo">CURATIVO</a></li>
+        <li><a id="idcardio" href="#cardio">EXAMES CARDIOLÓGICOS</a></li>
+        <li><a id="idpreve" href="#prev">EXAME PREVENTIVO</a></li>
+        <li><a id="idresso" href="#rm">RESSONÂNCIA MAGNÉTICA</a></li>
+        <li><a id="idtomo" href="#tc">TOMOGRAFIA</a></li>
+        <li><a id="idultra" href="#usg">ULTRASSONOGRAFIA</a></li>
+      </ul>
+    </nav>
+  </section>
+
+  <section id="ramais">
+    <h2>Ramais</h2>
+    <p>Contatos internos úteis.</p>
+    <p style="font-family: 'Courier New', Courier, monospace;">[Em densenvolvimento...] 🚧🛠️⛏️🏗️</p>
+  </section>
+
+<section id="cardio">
+  <h2>EXAMES CARDIOLÓGICOS</h2>
+  <p>Tabela de Exames Cardiológicos com os respectivos códigos TUSS padronizados.</p>
+  <label for="BuscadorCARDIO">Pesquisa: </label>
+  <div class="search-container">
+    <input id="BuscadorCARDIO" type="text" placeholder="Buscar Exame de Cardiológico...">
+    <span class="search-icon">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+        </svg>
+    </span>
+  </div>
+  <div class="tabela-container">
+    <table id="tabela-cardio">
+      <thead>
+        <tr>
+          <th>TIPOS DE EXAMES</th>
+          <th>CÓDIGO TUSS</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  </section>
+
+<section id="prev">
+  <h2>EXAME PREVENTIVO GINECOLÓGICO</h2>
+  <p>Tabela de Exames Laboratoriaos Ginecológicos com seus respectivos códigos TUSS e TASY padronizados.</p>
+  <label for="BuscadorPrev">Pesquisa: </label>
+  <div class="search-container">
+    <input id="BuscadorPrev" type="text" placeholder="Buscar Exame Preventivo...">
+    <span class="search-icon">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+        </svg>
+    </span>
+  </div>
+  <div class="tabela-container">
+    <table id="tabela-preventivo">
+      <thead>
+        <tr>
+          <th>SIGLA</th>
+          <th>EXAME</th>
+          <th>TIPO DE COLETA</th>
+          <th>CÓDGIO TASY</th>
+          <th>CÓDIGO TUSS</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</section>
+
+  <section id="usg">
+  <h2>ULTRASSONOGRAFIA E DOPPLER</h2>
+  <p>Tabela de Exames de Ultrassonografia e Doppler com seus respectivos códigos TUSS padronizados.</p>
+  <label for="BuscadorUSG">Pesquisa: </label>
+  <div class="search-container">
+    <input id="BuscadorUSG" type="text" placeholder="Buscar Exame de Ultrassom...">
+    <span class="search-icon">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+        </svg>
+    </span>
+  </div>
+  <div class="tabela-container">
+    <table id="tabela-usg">
+      <thead>
+        <tr>
+          <th>EXAMES POR PARTE DO CORPO OU REGIÃO</th>
+          <th>CÓDIGO TUSS</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  </section>
+
+  <section id="tc">
+  <h2>TOMOGRAFIA</h2>
+  <p>Tabela de Exames de Tomografia Computadorizada com os respectivos códigos TUSS padronizados.</p>
+  <label for="BuscadorTC">Pesquisa: </label>
+  <div class="search-container">
+    <input id="BuscadorTC" type="text" placeholder="Buscar Exame de Tomografia...">
+    <span class="search-icon">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+        </svg>
+    </span>
+  </div>
+  <div class="tabela-container">
+    <table id="tabela-tc">
+      <thead>
+        <tr>
+          <th>EXAMES POR PARTE DO CORPO OU REGIÃO</th>
+          <th>CÓDIGO TUSS</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  </section>
+
+  <section id="rm">
+  <h2>RESSONÂNCIA MAGNÉTICA</h2>
+  <p>Tabela de Exames de Ressonância Magnética com os respectivos códigos TUSS padronizados.</p>
+  <label for="BuscadorRM">Pesquisa: </label>
+  <div class="search-container">
+    <input id="BuscadorRM" type="text" placeholder="Buscar Exame de Ressonância Magnética...">
+    <span class="search-icon">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+        </svg>
+    </span>
+  </div>
+  <div class="tabela-container">
+    <table id="tabela-rm">
+      <thead>
+        <tr>
+          <th>EXAMES POR PARTE DO CORPO OU REGIÃO</th>
+          <th>CÓDIGO TUSS</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  </section>
+
+  <section id="curativo">
+  <h2>CURATIVOS</h2>
+  <p>Tabela de materiais de procedimento para pontos e curativos com seus respectivos códigos TUSS padronizados.</p>
+  <label for="BuscadorCura">Pesquisa: </label>
+  <div class="search-container">
+    <input id="BuscadorCura" type="text" placeholder="Buscar por Convênio, tipo de Curativo ou Procedimento...">
+    <span class="search-icon">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+        </svg>
+    </span>
+  </div>
+  <div class="tabela-container">
+    <table id="tabela-curativo">
+      <thead>
+        <tr>
+          <th>CONVÊNIO</th>
+          <th>CURATIVOS E PROCEDIMENTOS</th>
+          <th>CÓDIGO TUSS</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  </section>
+
+  <footer>Copyright &copy; 2025 site densenvolvido com I.A por Matheus Chagas</footer>
+  <div id="versao-site">
+    <p>Versão 4.0 - Atualizado em Novembro/2025</p>
+  </div>
+</body>
+</html>

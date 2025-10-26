@@ -1,0 +1,86 @@
+[
+    {
+        "nome": "Amil (Aliança)",
+        "url": "https://credenciado.amil.com.br/login",
+        "codigoAdicional": "",
+        "login": "72296003w82",
+        "senha": "Chag@s97"
+    },
+    {
+        "nome": "Amil (Gastroendo)",
+        "url": "https://credenciado.amil.com.br/login",
+        "codigoAdicional": "",
+        "login": "10304150w3",
+        "senha": "Cemedalianca2"
+    },
+    {
+        "nome": "Bradesco",
+        "url": "https://wwws.bradescosaude.com.br/PCBS-GerenciadorPortal/td/loginReferenciado.do",
+        "codigoAdicional": "86249264590",
+        "login": "02284062001765",
+        "senha": "34^lSs=H"
+    },
+    {
+        "nome": "Orizon",
+        "url": "https://polimed.com.br/autenticadorOrizon/loginAutenticador",
+        "codigoAdicional": "",
+        "login": "CHAGAS97",
+        "senha": "Ecvitori@10"
+    },
+    {
+        "nome": "Petrobrás",
+        "url": "https://portaltiss.saudepetrobras.com.br/saudeweb/seguranca/login",
+        "codigoAdicional": "",
+        "login": "matheuschagas",
+        "senha": "Ecvitori@10"
+    },
+    {
+        "nome": "Plan Assiste",
+        "url": "https://sistema.planassiste.mpu.mp.br/autorizadorweb/login.aspx",
+        "codigoAdicional": "",
+        "login": "02284062001765",
+        "senha": "Rededor@202501"
+    },
+    {
+        "nome": "Pró Social",
+        "url": "https://prosocial.trf1.jus.br/prosocial/login.aspx",
+        "codigoAdicional": "",
+        "login": "02284062001765",
+        "senha": "Halianca2023"
+    },
+    {
+        "nome": "Saúde Caixa",
+        "url": "https://saude.caixa.gov.br/AutorizadorPRD/login.aspx",
+        "codigoAdicional": "",
+        "login": "A02284062001765",
+        "senha": "Saude@123"
+    },
+    {
+        "nome": "Sul América",
+        "url": "https://saude.sulamericaseguros.com.br/prestador/login/?accessError=2",
+        "codigoAdicional": "100000021264",
+        "login": "master",
+        "senha": "Ha@21264"
+    },
+    {
+        "nome": "TRT5-Saúde",
+        "url": "https://aplicacoes.trt5.jus.br/trt5saude/Iniciar.do?load=1",
+        "codigoAdicional": "",
+        "login": "p00500144",
+        "senha": "Ecvitori@99"
+    },
+    {
+        "nome": "UNAFISCO",
+        "url": "https://novowebplanunafisco.facilinformatica.com.br/GuiasTISS/Logon",
+        "codigoAdicional": "Hospital",
+        "login": "02284062001765",
+        "senha": "XEFMJEAA"
+    },
+    {
+        "nome": "UNIMED",
+        "url": "https://saw.trixti.com.br/saw/Logar.do?method=abrirSAW",
+        "codigoAdicional": "",
+        "login": "cnu.matheus.chagass",
+        "senha": "207333433"
+    }
+]

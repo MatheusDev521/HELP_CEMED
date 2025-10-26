@@ -1,0 +1,5484 @@
+[
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ALVARO NONATO DE SOUZA",
+        "CRM": 9957,
+        "ESPECIALIDADES": "CIRURGIA GERAL",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ALINE ABREU BASTOS",
+        "CRM": 20558,
+        "ESPECIALIDADES": "INFECTOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ALYSSON FERREIRA BATISTA",
+        "CRM": 39406,
+        "ESPECIALIDADES": [
+            "ORTOPEDIA",
+            "CIRURGIA DA COLUNA"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ANA CLARA BARCELOS DA SILVA SOUZA",
+        "CRM": 31722,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ANA LUÍSA CERQUEIRA DE SANT'ANA COSTA",
+        "CRM": 32316,
+        "ESPECIALIDADES": "REUMATOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ANA PAULA MAIA BAPTISTA",
+        "CRM": 17993,
+        "ESPECIALIDADES": "NEFROLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ANTHONY MEDINA CONCEIÇÃO",
+        "CRM": 29425,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ANTÔNIO OLÍMPIO DA SILVA MOURA COSTA",
+        "CRM": 9531,
+        "ESPECIALIDADES": [
+            "ORTOPEDIA",
+            "CIRURGIA DA COLUNA"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "AQUILES ASSUNÇÃO CAMELIER",
+        "CRM": 12277,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "BÁRBARA ABADE COELHO DE CARVALHO",
+        "CRM": 19355,
+        "ESPECIALIDADES": "OBSTETRICIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "BÁRBARA DE ALENCAR LEITE COSTA",
+        "CRM": 29751,
+        "ESPECIALIDADES": "NEUROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "BRUNO DA SILVEIRA ALMEIDA",
+        "CRM": 15730,
+        "ESPECIALIDADES": [
+            "CIRURGIA GERAL",
+            "CIRURGIA DO APARELHO DIGESTIVO",
+            "TRANSPLANTE HEPATO"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "BRUNO SUFFREDINI FIGUEIREDO",
+        "CRM": 26428,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "CAMILA MEDRADO PEREIRA BARBOSA",
+        "CRM": 23856,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "CAIO REBOUÇAS FONSECA CAFÉZEIRO",
+        "CRM": 27394,
+        "ESPECIALIDADES": "CARDIOLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "CARLOS AUGUSTO PIRES COSTA LINO",
+        "CRM": 7485,
+        "ESPECIALIDADES": "GINECOLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "CAROLINE DA SILVA SEIDLER",
+        "CRM": 28169,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "CHRISTIAN COSTA DE ARAÚJO",
+        "CRM": 11390,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "DANIEL PORTO MENDES",
+        "CRM": 21720,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "DIEGO VILELA SANTOS",
+        "CRM": 44159,
+        "ESPECIALIDADES": [
+            "CARDIOLOGIA",
+            "HEMODINÂMICA"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ELIAS LUCIANO QUINTO DE SOUZA",
+        "CRM": 10741,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ELISA LEAL AIRES PIMENTEL ",
+        "CRM": 17024,
+        "ESPECIALIDADES": "ENDOCRINOLOGIA E METABOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "EMÍLIA PEREIRA DE MAGALHÃES",
+        "CRM": 10608,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "EMILLY SERAPIÃO DOS SANTOS",
+        "CRM": 13701,
+        "ESPECIALIDADES": "OBSTETRICIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ERIVALDO SANTOS ALVES",
+        "CRM": 9319,
+        "ESPECIALIDADES": [
+            "CIRURGIA BARIÁTRICA",
+            "CIRURGIA GERAL"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ERODILHO SANDE MOTA",
+        "CRM": 13670,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "EULER DE MEDEIROS AZARO FILHO",
+        "CRM": 8650,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "FELIPE CARVALHO DE OLIVEIRA",
+        "CRM": 24504,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "FERNANDO CARVALHO VENTIN",
+        "CRM": 34637,
+        "ESPECIALIDADES": [
+            "ORTOPEDIA",
+            "CIRURGIA DA MÃO"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "FERNANDO FILARDI ALVES SOUZA",
+        "CRM": 13175,
+        "ESPECIALIDADES": "CIRURGIA GERAL",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "FLÁVIA DE CASTRO RIBEIRO FIDELIS",
+        "CRM": 21620,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "FLORA MARIA LORENZO FORTES",
+        "CRM": 22903,
+        "ESPECIALIDADES": [
+            "GASTROENTEROLOGIA",
+            "DOENÇAS INFLAMATORIAS"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "FREDERICO VILA HENRIQUE DOS SANTOS",
+        "CRM": 14261,
+        "ESPECIALIDADES": "CIRURGIA GERAL",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "HERON CRUSOÉ CANGUSSU",
+        "CRM": 15227,
+        "ESPECIALIDADES": "CIRURGIA ONCOLÓGICA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "IVAN MARCELO GONÇALVES AGRA",
+        "CRM": 12387,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JACIANE ARAÚJO MOTA FONTES",
+        "CRM": 14941,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JORGE ALBERTO DE RESCALA",
+        "CRM": 6589,
+        "ESPECIALIDADES": "CIRURGIA GERAL",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JORGE BASTOS FREITAS JÚNIOR",
+        "CRM": 17127,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JORGE REIS PINHEIRO DE LEMOS",
+        "CRM": 14013,
+        "ESPECIALIDADES": "CIRURGIA GERAL",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JOSÉ ABRAÃO CARNEIRO NETO",
+        "CRM": 17214,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JOSÉ CARLOS MARODIN BERTASSI",
+        "CRM": 21816,
+        "ESPECIALIDADES": "CIRURGIA CARDIÁCA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JOSÉ CARLOS MACEDO MONTEIRO",
+        "CRM": 14550,
+        "ESPECIALIDADES": "GINECOLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JOSÉ RICARDO DANTAS MOURA COSTA",
+        "CRM": 31063,
+        "ESPECIALIDADES": [
+            "ORTOPEDIA",
+            "CIRURGIA DA JOELHO"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JÚLIA DE ALMEIDA TRINDADE DE FARIA",
+        "CRM": 10348,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "JUSSARA DE OLIVEIRA PINHEIRO DUARTE",
+        "CRM": 13116,
+        "ESPECIALIDADES": "ARRITMOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "KARLA RAMOS MELO OLIVEIRA",
+        "CRM": 11469,
+        "ESPECIALIDADES": [
+            "GASTROENTEROLOGIA",
+            "HEPATOLOGIA"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "LAURO MATOS DE ALMEIDA",
+        "CRM": 24579,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "LEONARDO DE SOUZA KRUSCHEWSKY",
+        "CRM": 16136,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "LILIANA TEIXEIRA",
+        "CRM": 26855,
+        "ESPECIALIDADES": "OBSTETRICIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "LINA MARIA GOES DE CODES",
+        "CRM": 17194,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "LÍVIA DE AZEVEDO CERQUEIRA REIS ",
+        "CRM": 19597,
+        "ESPECIALIDADES": "NEFROLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "LUANE DA GUARDA MATOS CHAVES",
+        "CRM": 22582,
+        "ESPECIALIDADES": "HEPATOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "LUCAS FONTES DE ALCÂNTARA",
+        "CRM": 17872,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "LUIZ EDUARDO CAFÉ CARDOSO PINTO",
+        "CRM": 11407,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MARCELO AUGUSTO DUARTE SILVEIRA",
+        "CRM": 23836,
+        "ESPECIALIDADES": "NEFROLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MÁRCIA MARIA NOYA RABELO",
+        "CRM": 9630,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MARCOS LEÃO DE PAULA VILAS BOAS",
+        "CRM": 9643,
+        "ESPECIALIDADES": "CIRURGIA BARIÁTRICA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MATEUS PONTES FIUZA PEREIRA",
+        "CRM": 14689,
+        "ESPECIALIDADES": [
+            "GASTROENTEROLOGIA",
+            "HEPATOLOGIA"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MATHEUS NILO SANTANA",
+        "CRM": 30188,
+        "ESPECIALIDADES": "OBSTETRICIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MATHIAS FIGUEIREDO DOURADO",
+        "CRM": 33196,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MAURÍCIO SILVA TEIXEIRA",
+        "CRM": 30183,
+        "ESPECIALIDADES": "NEUROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MAYARA MARAUX MARANHÃO",
+        "CRM": 24516,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MERSON SILVA DE ALMEIDA",
+        "CRM": 33028,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MILENA DE LUCENA GAMA",
+        "CRM": 26875,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "MILENA REBELLO DE CARVALHO",
+        "CRM": 32252,
+        "ESPECIALIDADES": "OBSTETRICIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "OSÍRIS CERQUEIRA CASAIS E SILVA",
+        "CRM": 10119,
+        "ESPECIALIDADES": "CIRURGIA BARIÁTRICA E CIRURGIA GERAL",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "OSVALDEMAR REGIS DO NASCIMENTO JÚNIOR ",
+        "CRM": 22807,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "PAULO BENIGNO PENA BATISTA",
+        "CRM": 9795,
+        "ESPECIALIDADES": "NEFROLOGIA ",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "PAULO GUILHERME METTIG ROCHA",
+        "CRM": 9884,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "PLÁCIDO NATANAEL DE LIMA FILHO",
+        "CRM": 8687,
+        "ESPECIALIDADES": "GINECOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "RAIMUNDO NUNES LISBOA",
+        "CRM": 7589,
+        "ESPECIALIDADES": [
+            "ORTOPEDIA",
+            "CIRURGIA DA OMBRO E COTOVELO"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "RAFAEL DA CRUZ RIOS SAMPAIO",
+        "CRM": 35803,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "RAFAEL SOUZA OLIVEIRA FREITAS DE MOURA",
+        "CRM": 28120,
+        "ESPECIALIDADES": "CIRURGIA ONCOLÓGICA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "RAFAELLA ALCÂNTARA ALVES MELO",
+        "CRM": 25017,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "RICARDO BRITTO COTIAS",
+        "CRM": 15388,
+        "ESPECIALIDADES": [
+            "ORTOPEDIA",
+            "CIRURGIA DA COLUNA"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "RICARDO SOBRAL DE CARVALHO",
+        "CRM": 16425,
+        "ESPECIALIDADES": "ARRITMOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "RENATO SAÚDE DE ARAÚJO",
+        "CRM": 13974,
+        "ESPECIALIDADES": "OBSTETRICIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ROBERTO CINTRA LOMANTO SANTOS SILVA",
+        "CRM": 26937,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "ROBERTO VALENTE FILHO",
+        "CRM": 9284,
+        "ESPECIALIDADES": "CIRURGIA GERAL",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "RODRIGO ANDRADE FROES MOREIRA",
+        "CRM": 18717,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "SABRINA QUERON SILVA BACELAR BOUDOUX",
+        "CRM": 33243,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "SÂMIA BARRETO LEAL",
+        "CRM": 34619,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "SAMUEL RIBEIRO JUNCAL",
+        "CRM": "\t24379",
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "SIMONE MONTALVÃO MACHADO FURQUIM WHITE",
+        "CRM": 15737,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "SONYARA RAUEDYS OLIVEIRA LISBOA",
+        "CRM": 27443,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "SUZANA SILVA LEAL",
+        "CRM": 21703,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "THAÍS MAGALHÃES DE FARIAS",
+        "CRM": 30111,
+        "ESPECIALIDADES": "OBSTETRICIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "THAMY CRISTINE SANTANA MARQUES",
+        "CRM": 23806,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "TOMAS AMORIM ANDRADE",
+        "CRM": 28324,
+        "ESPECIALIDADES": [
+            "ORTOPEDIA",
+            "CIRURGIA DA PÉ E TORNOZELO"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "VITÓRIA MOTA OLIVEIRA BUCKINGHAM LYRA",
+        "CRM": 28481,
+        "ESPECIALIDADES": [
+            "NEUROLOGIA",
+            "NEURORRADIOLOGIA INTERVENCIONISTA"
+        ],
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "WANEWMAN LINS GUEDES DE ANDRADE",
+        "CRM": 16397,
+        "ESPECIALIDADES": "CIRURGIA CARDIÁCA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "WILSON LUIZ ANDRADE BASTOS FILHO",
+        "CRM": 18268,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": "1º andar ",
+        "MÉDICOS": "YASMIN LARYSSA MOURA GUIMARAES ",
+        "CRM": 30107,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "PRO SOCIAL",
+            "AMIL",
+            "OMINT",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "3003-3230"
+    },
+    {
+        "SALAS": 201,
+        "MÉDICOS": "ADRIANO BRITTO DE CAMPOS",
+        "CRM": 13400,
+        "ESPECIALIDADES": [
+            "CIRURGIA DA GERAL",
+            "CIR BARIÁTRICA"
+        ],
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO"
+        ],
+        "TELEFONES": "2108-4656"
+    },
+    {
+        "SALAS": 201,
+        "MÉDICOS": "DANILO NOYA FONSECA",
+        "CRM": 7599,
+        "ESPECIALIDADES": "CIRURGIA DA GERAL",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PETROBRAS"
+        ],
+        "TELEFONES": "2108-4656"
+    },
+    {
+        "SALAS": 201,
+        "MÉDICOS": "JOAQUIM MAURÍCIO BARBOSA LYRIO",
+        "CRM": 8691,
+        "ESPECIALIDADES": "CIRURGIA DA GERAL",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO"
+        ],
+        "TELEFONES": "2108-4656"
+    },
+    {
+        "SALAS": 201,
+        "MÉDICOS": "MARCUS DE CARVALHO VAZ PORTO",
+        "CRM": 14551,
+        "ESPECIALIDADES": "CIRURGIA DA GERAL",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PETROBRAS"
+        ],
+        "TELEFONES": "2108-4656"
+    },
+    {
+        "SALAS": 201,
+        "MÉDICOS": "LUCAS ALBUQUERQUE FERREIRA",
+        "CRM": 24088,
+        "ESPECIALIDADES": "CIRURGIA DA GERAL",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PETROBRAS"
+        ],
+        "TELEFONES": "2108-4656"
+    },
+    {
+        "SALAS": 201,
+        "MÉDICOS": "PAULO SOLANO DE MENEZES SELLING",
+        "CRM": 7045,
+        "ESPECIALIDADES": "",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PETROBRAS"
+        ],
+        "TELEFONES": ""
+    },
+    {
+        "SALAS": 202,
+        "MÉDICOS": "ALMIRO VIEIRA DE MELO NETO",
+        "CRM": 15148,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "ASSEFAZ",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "APUB",
+            "MEDISERVICE",
+            "CASSI",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4820"
+    },
+    {
+        "SALAS": 202,
+        "MÉDICOS": "ANTÔNIO URBANO FERREIRA FILHO",
+        "CRM": 8651,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "ASSEFAZ",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "APUB",
+            "MEDISERVICE",
+            "CASSI",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4820"
+    },
+    {
+        "SALAS": 202,
+        "MÉDICOS": "FELIPE MEDEIROS LUDUVICE",
+        "CRM": 24030,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "ASSEFAZ",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "APUB",
+            "MEDISERVICE",
+            "CASSI",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4820"
+    },
+    {
+        "SALAS": 202,
+        "MÉDICOS": "MARCIO ZILDO CARVALHO",
+        "CRM": 10950,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "ASSEFAZ",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "APUB",
+            "MEDISERVICE",
+            "CASSI",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4820"
+    },
+    {
+        "SALAS": 202,
+        "MÉDICOS": "ROBERTO PASTOR RUBEIZ",
+        "CRM": 9668,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "ASSEFAZ",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "APUB",
+            "MEDISERVICE",
+            "CASSI",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4820"
+    },
+    {
+        "SALAS": 202,
+        "MÉDICOS": "SÁVIO OLIVEIRA PASTOR",
+        "CRM": 22299,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "ASSEFAZ",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "APUB",
+            "MEDISERVICE",
+            "CASSI",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4820"
+    },
+    {
+        "SALAS": 202,
+        "MÉDICOS": "VICTOR NUNES SALES DE MELO",
+        "CRM": 20345,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "ASSEFAZ",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "APUB",
+            "MEDISERVICE",
+            "CASSI",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4820"
+    },
+    {
+        "SALAS": 205,
+        "MÉDICOS": "ADRIANO SILVA DE OLIVEIRA",
+        "CRM": 12200,
+        "ESPECIALIDADES": "INFECTOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4640"
+    },
+    {
+        "SALAS": 205,
+        "MÉDICOS": "ALINE ABREU BASTOS",
+        "CRM": 20558,
+        "ESPECIALIDADES": "INFECTOLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SUL AMÉRICA",
+            "BRADESCO"
+        ],
+        "TELEFONES": "2108-4640"
+    },
+    {
+        "SALAS": 205,
+        "MÉDICOS": "ANA PAULA GOMES ALCÂNTARA VILLA NOVA",
+        "CRM": 11547,
+        "ESPECIALIDADES": "INFECTOLOGIA",
+        "CONVÊNIOS": "PETROBRAS",
+        "TELEFONES": "2108-4640"
+    },
+    {
+        "SALAS": 205,
+        "MÉDICOS": "NANCI FERREIRA DA SILVA",
+        "CRM": 8301,
+        "ESPECIALIDADES": "INFECTOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4640"
+    },
+    {
+        "SALAS": 205,
+        "MÉDICOS": "MARIA CLAUDIA LUZ DA SILVA MATOS",
+        "CRM": 17952,
+        "ESPECIALIDADES": "INFECTOLOGIA PEDIÁTRICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4640"
+    },
+    {
+        "SALAS": 206,
+        "MÉDICOS": "AQUILES ASSUNÇÃO CAMELIER",
+        "CRM": 12277,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "PARTICULAR"
+        ],
+        "TELEFONES": "2108-4842"
+    },
+    {
+        "SALAS": 206,
+        "MÉDICOS": "LUCIMEIRE CARDOSO DUARTE",
+        "CRM": 11868,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "PARTICULAR"
+        ],
+        "TELEFONES": "2108-4842"
+    },
+    {
+        "SALAS": 206,
+        "MÉDICOS": "MARCELO CHALHOUB COELHO LIMA",
+        "CRM": 8828,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "PARTICULAR"
+        ],
+        "TELEFONES": "2108-4842"
+    },
+    {
+        "SALAS": 206,
+        "MÉDICOS": "MARGARIDA CELIA LIMA COSTA NEVES",
+        "CRM": 8582,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "PARTICULAR"
+        ],
+        "TELEFONES": "2108-4842"
+    },
+    {
+        "SALAS": 207,
+        "MÉDICOS": "OSORIO JOSÉ DE OLIVEIRA FILHO",
+        "CRM": 3263,
+        "ESPECIALIDADES": "OFTALMOLOGIA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PETROBRAS",
+            "CASSI",
+            "ASFEB"
+        ],
+        "TELEFONES": "2108-4682"
+    },
+    {
+        "SALAS": 208,
+        "MÉDICOS": "ANDRÉ PESSOA DE SOUZA COUTO",
+        "CRM": 18618,
+        "ESPECIALIDADES": "DERMATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4665"
+    },
+    {
+        "SALAS": 208,
+        "MÉDICOS": "PAULO ROBERTO LIMA MACHADO",
+        "CRM": 7612,
+        "ESPECIALIDADES": "DERMATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4665"
+    },
+    {
+        "SALAS": 211,
+        "MÉDICOS": "GILSON SOARES FEITOSA FILHO",
+        "CRM": 14144,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4686"
+    },
+    {
+        "SALAS": 211,
+        "MÉDICOS": "GUSTAVO FREITAS FEITOSA",
+        "CRM": 21730,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4686"
+    },
+    {
+        "SALAS": 211,
+        "MÉDICOS": "GILSON SOARES FEITOSA",
+        "CRM": 3998,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4686"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "AÊDO SOUZA KHOURI DA SILVA",
+        "CRM": 27014,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA MÃO",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "BRADESCO",
+            "MEDISERVICE",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "ANTÔNIO MARCOS FERRACINI",
+        "CRM": 9402,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA QUADRIL",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "CAIO GUEDES MOREIRA DA SILVA",
+        "CRM": 14006,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA JOELHO",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE",
+            "BRADESCO",
+            "PETROBRAS",
+            "SAÚDE-CAIXA",
+            "CAMED",
+            "CASSI",
+            "MEDSERVISE",
+            "AMIL",
+            "UNIMED",
+            "POSTAL SAÚDE"
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "FERNANDO CARVALHO VENTIN",
+        "CRM": 34637,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA MÃO",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "BRADESCO",
+            "MEDISERVICE",
+            "TRT5 SAÚDE",
+            "AMIL",
+            "SAÚDE CAIXA SAUDE"
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "FERNANDO LUIS KHOURI DA SILVA",
+        "CRM": 10000,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA MÃO",
+        "CONVÊNIOS": [
+            "PROMÉDICA",
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "BRADESCO",
+            "MEDISERVICE",
+            "TRT5 SAÚDE",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "JOSÉ EDUARDO MENDONCA DE ALENCAR FILHO",
+        "CRM": 16472,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA JOELHO",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "BRADESCO",
+            "MEDISERVICE",
+            "TRT5 SAÚDE",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "PAULO SERGIO MILAN ROBAZZI",
+        "CRM": 12167,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COTOVELO E OMBRO",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "BRADESCO",
+            "MEDISERVICE",
+            "TRT5 SAÚDE",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "VILSON ULIAN",
+        "CRM": 5182,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA MÃO E GERAL",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "BRADESCO",
+            "MEDISERVICE",
+            "TRT5 SAÚDE."
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "YAN GABRIEL MORAIS DAVID SILVA",
+        "CRM": 28593,
+        "ESPECIALIDADES": "ORTOPEDIA E TRAUMATOLOGIA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "BRADESCO",
+            "MEDISERVICE",
+            "TRT5 SAÚDE."
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "ANDRÉ LUIZ CASTRO DE FREITAS",
+        "CRM": 9893,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA MÃO",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "BRADESCO",
+            "MEDISERVICE",
+            "TRT5 SAÚDE",
+            "CASSI",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "FERNANDO CAL GARCIA FILHO",
+        "CRM": 8163,
+        "ESPECIALIDADES": "ORTOPEDIA PEDIÁTRICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 301,
+        "MÉDICOS": "FLAVIO JORDAO ALVARES SEIXAS",
+        "CRM": 20299,
+        "ESPECIALIDADES": "ORTOPEDIA PEDIÁTRICA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "PETROBRAS",
+            "BRADESCO",
+            "MEDISERVICE",
+            "TRT5 SAÚDE",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4933"
+    },
+    {
+        "SALAS": 302,
+        "MÉDICOS": "LUDMILA CHAVES FONSECA",
+        "CRM": 23611,
+        "ESPECIALIDADES": "ENDOCRINOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4723"
+    },
+    {
+        "SALAS": 302,
+        "MÉDICOS": "OSMARIO JORGE DE MATTOS SALLES",
+        "CRM": 5945,
+        "ESPECIALIDADES": "ENDOCRINOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4723"
+    },
+    {
+        "SALAS": 302,
+        "MÉDICOS": "REINE MARIE CHAVES FONSECA",
+        "CRM": 6208,
+        "ESPECIALIDADES": "ENDOCRINOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4723"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "CARLOS ALBERTO PETERSEN DE SANT ANNA FILHO",
+        "CRM": 12828,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COTOVELO E OMBRO",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "CARLOS HENRIQUE ARAÚJO SILVA",
+        "CRM": 19923,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COLUNA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "DANIEL DE ALCÂNTARA JONES ",
+        "CRM": 22269,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA PÉ E TORNOZELO",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "DJALMA CASTRO DE AMORIM JUNIOR",
+        "CRM": 13668,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COLUNA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "PETROBRÁS",
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "HENRIQUE RIBEIRO GONÇALVES",
+        "CRM": 12783,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA QUADRIL",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "PETROBRÁS",
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "MARCELO BARBOSA CORTES",
+        "CRM": 14965,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA PÉ E TORNOZELO",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "PETROBRÁS",
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "MARCOS PIMENTEL DA SILVEIRA",
+        "CRM": 11881,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COTOVELO E OMBRO",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "MARZO NUNES SANTOS",
+        "CRM": 14642,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA JOELHO",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "CAIXA",
+            "TRT5 SAÚDE",
+            "PETROBRAS",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "PAULO OLIVEIRA COLAVOLPE",
+        "CRM": 7844,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA JOELHO",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 303,
+        "MÉDICOS": "RENATO RIBEIRO GONÇALVES",
+        "CRM": 11400,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA MÃO",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "TRT5 SAÚDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4819"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "ALINE LANDIM MANO",
+        "CRM": 17100,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA",
+            "POSTAL SAUDE",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "ANDRÉ COSTA MATOS",
+        "CRM": 23343,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "ANSELMO HOFFMANN",
+        "CRM": 23711,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA",
+            "POSTAL SAUDE",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "AUGUSTO MODESTO DE SOUZA NETO",
+        "CRM": 13407,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA",
+            "POSTAL SAUDE",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "BRENO DAUSTER PEREIRA E SILVA",
+        "CRM": 16836,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "EWERTON PEDROSA MURAGAZI",
+        "CRM": 22956,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "EZEQUIEL FABIANE SPANHOLI",
+        "CRM": 22954,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA",
+            "POSTAL SAUDE",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "FELIPE AMOEDO LUEDY",
+        "CRM": 27194,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "FREDERICO MOTA MASCARENHAS DE SOUZA",
+        "CRM": 14127,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "JOÃO PEDRO BARRETTO DE ANDRADE",
+        "CRM": 27462,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "JOSÉ ALVARO DANTAS JUNIOR",
+        "CRM": 9462,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "MARCELO AUGUSTO DUARTE SILVEIRA",
+        "CRM": 23836,
+        "ESPECIALIDADES": "NEFROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA",
+            "POSTAL SAUDE",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "MARCOS LIMA DE OLIVEIRA LEAL",
+        "CRM": 18433,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "MAURÍCIO SANCHES JORGE",
+        "CRM": 10803,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 304,
+        "MÉDICOS": "RICARDO SANTOS SOUZA",
+        "CRM": 28399,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "MEDISERVICE",
+            "CASSI",
+            "ASFEB",
+            "CORREIOS",
+            "BANCO CENTRAL",
+            "ASSEFAZ",
+            "PETROBRAS",
+            "CASSEB",
+            "CAMED",
+            "APUB",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4988"
+    },
+    {
+        "SALAS": 305,
+        "MÉDICOS": "CARLOS ANTÔNIO GUSMAO GUERREIRO DE MOURA",
+        "CRM": 22311,
+        "ESPECIALIDADES": "REUMATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4858"
+    },
+    {
+        "SALAS": 305,
+        "MÉDICOS": "CARLOS GERALDO GUERREIRO DE MOURA",
+        "CRM": 6374,
+        "ESPECIALIDADES": "REUMATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4858"
+    },
+    {
+        "SALAS": 305,
+        "MÉDICOS": "ANA LUISA CERQUEIRA DE SANTANA COSTA",
+        "CRM": 32316,
+        "ESPECIALIDADES": "REUMATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4858"
+    },
+    {
+        "SALAS": 305,
+        "MÉDICOS": "FABIANA SANTOS ROSA DE MOURA",
+        "CRM": 29674,
+        "ESPECIALIDADES": "GERIATRIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4858"
+    },
+    {
+        "SALAS": 305,
+        "MÉDICOS": "FLAVIO DE CASTRO FEITOSA",
+        "CRM": 17254,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4728"
+    },
+    {
+        "SALAS": 307,
+        "MÉDICOS": "CAMILA PARADELLA CAL",
+        "CRM": 20164,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "CASSI",
+            "ASFEB",
+            "AMIL",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "BANCO CENTRAL"
+        ],
+        "TELEFONES": "2108-4671"
+    },
+    {
+        "SALAS": 307,
+        "MÉDICOS": "ROSALVO LOPES PARADELLA",
+        "CRM": 4265,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "CASSI",
+            "ASFEB",
+            "AMIL",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "BANCO CENTRAL"
+        ],
+        "TELEFONES": "2108-4671"
+    },
+    {
+        "SALAS": 307,
+        "MÉDICOS": "VICENTE DE PAULO PACHECO DE MENEZES",
+        "CRM": 7394,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "CASSI",
+            "ASFEB",
+            "AMIL",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "BANCO CENTRAL"
+        ],
+        "TELEFONES": "2108-4671"
+    },
+    {
+        "SALAS": 308,
+        "MÉDICOS": "ANTÔNIO CARLOS VIEIRA LOPES",
+        "CRM": 1975,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "CASSI",
+            "SUL AMÉRICA",
+            "ASFEB",
+            "BANCO CENTRAL",
+            "MEDISERVICE",
+            "FACHESF",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4672"
+    },
+    {
+        "SALAS": 308,
+        "MÉDICOS": "LUCIANA VIEIRA LOPES CHAUI",
+        "CRM": 11448,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "CASSI",
+            "SUL AMÉRICA",
+            "ASFEB",
+            "BANCO CENTRAL",
+            "MEDISERVICE",
+            "FACHESF",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4672"
+    },
+    {
+        "SALAS": 309,
+        "MÉDICOS": "AGNALDO VIANA PEREIRA NETO",
+        "CRM": 22315,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": [
+            "2108-4661",
+            "2108-4717"
+        ]
+    },
+    {
+        "SALAS": 309,
+        "MÉDICOS": "CARLOS AUGUSTO SANTOS DE MENEZES",
+        "CRM": 7094,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS"
+        ],
+        "TELEFONES": [
+            "2108-4661",
+            "2108-4717"
+        ]
+    },
+    {
+        "SALAS": 309,
+        "MÉDICOS": "TEILA FREITAS BENDOCCHI ALVES",
+        "CRM": 7602,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "CASSI",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": [
+            "2108-4661",
+            "2108-4717"
+        ]
+    },
+    {
+        "SALAS": 309,
+        "MÉDICOS": "LÍVIA MARGARIDA DE MASCARENHAS CHAMUSCA",
+        "CRM": 6632,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": [
+            "2108-4661",
+            "2108-4623"
+        ]
+    },
+    {
+        "SALAS": 310,
+        "MÉDICOS": "ALVARO AUGUSTO SOUZA DA CRUZ FILHO",
+        "CRM": 5919,
+        "ESPECIALIDADES": "PNEUMOLOGIA E ALERGOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4846"
+    },
+    {
+        "SALAS": 310,
+        "MÉDICOS": "SERGIO FERNANDES DE OLIVEIRA JEZLER",
+        "CRM": 10395,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108 4846"
+    },
+    {
+        "SALAS": 311,
+        "MÉDICOS": "CARLOS AUGUSTO PIRES COSTA LINO",
+        "CRM": 7485,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "ENDOMETRIOSE"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-7762"
+    },
+    {
+        "SALAS": 311,
+        "MÉDICOS": "PAULO VITOR LIMA SOARES ",
+        "CRM": 22705,
+        "ESPECIALIDADES": [
+            "COLOPROCTOLOGIA",
+            "CIRURGIA GERAL"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-7762"
+    },
+    {
+        "SALAS": 311,
+        "MÉDICOS": "HERON CRUSOÉ CANGUSSU",
+        "CRM": 15227,
+        "ESPECIALIDADES": [
+            "CIRURGIA DA ONCOLÓGICA",
+            "CIRURGIA GINECOLÓGICA ONCOLÓGICA"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-7762"
+    },
+    {
+        "SALAS": 311,
+        "MÉDICOS": "CAROLINA MACHADO RIBEIRO",
+        "CRM": 36235,
+        "ESPECIALIDADES": [
+            "CIRURGIA GINECOLÓGICA",
+            "GINECOLOGIA",
+            "ENDOMETRIOSE"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-7762"
+    },
+    {
+        "SALAS": 311,
+        "MÉDICOS": "FERNANDA SOBREIRA BRITTO",
+        "CRM": 26336,
+        "ESPECIALIDADES": [
+            "CIRURGIA GINECOLÓGICA",
+            "GINECOLOGIA /GINECOLOGIA ENDÓCRINA"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-7762"
+    },
+    {
+        "SALAS": 311,
+        "MÉDICOS": "ALEXANDRÉ COSME DO AMARAL",
+        "CRM": 23614,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "CIRURGIA DA GINECOLÓGICA",
+            "ENDOMETRIOSE"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-7762"
+    },
+    {
+        "SALAS": 311,
+        "MÉDICOS": "BRUNA GARRIDO CASAL",
+        "CRM": 28165,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "CIRURGIA DA GINECOLÓGICA",
+            "ENDOMETRIOSE"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-7762"
+    },
+    {
+        "SALAS": 401,
+        "MÉDICOS": "LEONARDO BRANDAO DE OLIVA",
+        "CRM": 20329,
+        "ESPECIALIDADES": "GERIATRIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4658"
+    },
+    {
+        "SALAS": 401,
+        "MÉDICOS": "MAURÍCIO VALVERDE LIBERATO",
+        "CRM": 18700,
+        "ESPECIALIDADES": "GERIATRIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4658"
+    },
+    {
+        "SALAS": 401,
+        "MÉDICOS": "ROBSON WESLEY DOS REIS SILVA",
+        "CRM": 16460,
+        "ESPECIALIDADES": "INFECTOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4658"
+    },
+    {
+        "SALAS": 401,
+        "MÉDICOS": "ALINI MARIA ORATHES PONTE SILVA",
+        "CRM": 21398,
+        "ESPECIALIDADES": "GERIATRA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4658"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "ADELMO AUGUSTO MADEIRO ARCANJO SILVA ",
+        "CRM": 17531,
+        "ESPECIALIDADES": "ORTOPEDIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "PETROBRAS",
+            "ASFEB",
+            "MED SERVICE",
+            "GOLDEN EMPRESA",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "CESAR DARIO OLIVEIRA MIRANDA",
+        "CRM": 13536,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA MÃO E CIRURGIA DA COTOVELO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "PETROBRAS",
+            "ASFEB",
+            "MED SERVICE",
+            "GOLDEN EMPRESA",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "RAFAEL SILVA RIBEIRO",
+        "CRM": 12791,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA MÃO E CIRURGIA DA COTOVELO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "PETROBRAS",
+            "ASFEB",
+            "MED SERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "LUIZ MARCELO BASTOS LEITE",
+        "CRM": 11386,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COTOVELO E OMBRO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "PETROBRAS",
+            "ASFEB",
+            "MED SERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "LUIZ GUSTAVO SILVA SEIXAS",
+        "CRM": 12221,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA JOELHO E CIRURGIA DA QUADRIL",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "PETROBRAS",
+            "ASFEB",
+            "MED SERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "ROBERTO JOSÉ BATISTA DOREA",
+        "CRM": 4923,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA JOELHO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "PETROBRAS",
+            "ASFEB",
+            "MED SERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "SERGIO MURILO DOS SANTOS ANDRADE",
+        "CRM": 15308,
+        "ESPECIALIDADES": "ORTOPEDIA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "PETROBRAS",
+            "ASFEB",
+            "MED SERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "TULIO EDUARDO MARÇAL VIEIRA",
+        "CRM": 17144,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA PÉ E TORNOZELO",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "CASSI",
+            "SAÚDE SAÚDE CAIXA",
+            "ASFEB",
+            "MEDISERVICE",
+            "CAMED",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "RICARDO LEITE CABRAL",
+        "CRM": 13987,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COTOVELO E OMBRO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "PETROBRAS",
+            "ASFEB",
+            "MED SERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 402,
+        "MÉDICOS": "MARCUS VINICIUS MOTA GARCIA MORENO ",
+        "CRM": 12660,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA PÉ E TORNOZELO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "ASFEB",
+            "MED SERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 403,
+        "MÉDICOS": "CARLOS ROBERTO ALVES DE OLIVEIRA",
+        "CRM": 5935,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRÁS",
+            "CASSI",
+            "BANCO CENTRAL",
+            "PROMÉDICA"
+        ],
+        "TELEFONES": "2108-4676"
+    },
+    {
+        "SALAS": 403,
+        "MÉDICOS": "CHRISTIAN COSTA DE ARAÚJO",
+        "CRM": 11390,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "CASSI",
+            "SAÚDE CAIXA SAUDE",
+            "PLANSERV",
+            "PETROBRAS",
+            "PROSOCIAL",
+            "BRADESCO",
+            "ASFEB",
+            "SUL AMÉRICA",
+            "MED SERVICE",
+            "TRT5 SAÚDE5."
+        ],
+        "TELEFONES": "2108-4676"
+    },
+    {
+        "SALAS": 403,
+        "MÉDICOS": "JOÃO DIAS DE ANDRADE FILHO",
+        "CRM": 11090,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "CASSI",
+            "SAÚDE CAIXA SAUDE",
+            "PLANSERV",
+            "PETROBRAS",
+            "PROSOCIAL",
+            "BRADESCO",
+            "ASFEB",
+            "SUL AMÉRICA",
+            "MED SERVICE",
+            "TRT5 SAÚDE5."
+        ],
+        "TELEFONES": "2108-4676"
+    },
+    {
+        "SALAS": 404,
+        "MÉDICOS": "MARCELO JAQUES PAES ANTAKI",
+        "CRM": 25483,
+        "ESPECIALIDADES": [
+            "ORTPEDISTA",
+            "CIRURGIA DE OMBRO"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "CASSI",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4657"
+    },
+    {
+        "SALAS": 404,
+        "MÉDICOS": "ROBERTO PINTO DE CARVALHO",
+        "CRM": 6769,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COLUNA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PETROBRAS",
+            "CASSI"
+        ],
+        "TELEFONES": "2108-4657"
+    },
+    {
+        "SALAS": 405,
+        "MÉDICOS": "GUSTAVO ALMEIDA FORTUNATO",
+        "CRM": 15934,
+        "ESPECIALIDADES": "CIRURGIA TORÁCICA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PROMÉDICA",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "UNIMED",
+            "POSTAL SAÚDE",
+            "CASSEB",
+            "CAMED",
+            "CASSI",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4659"
+    },
+    {
+        "SALAS": 405,
+        "MÉDICOS": "MAIRA KALIL FERNANDES",
+        "CRM": 15887,
+        "ESPECIALIDADES": "CIRURGIA TORÁCICA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PROMÉDICA",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "UNIMED",
+            "POSTAL SAÚDE",
+            "CASSEB",
+            "CAMED",
+            "CASSI",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4659"
+    },
+    {
+        "SALAS": 405,
+        "MÉDICOS": "RODRIGO TEIXEIRA LIMA",
+        "CRM": 25516,
+        "ESPECIALIDADES": "CIRURGIA TORÁCICA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PROMÉDICA",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "UNIMED",
+            "POSTAL SAÚDE",
+            "CASSEB",
+            "CAMED",
+            "CASSI",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4659"
+    },
+    {
+        "SALAS": 405,
+        "MÉDICOS": "SERGIO TADEU LIMA FORTUNATO PEREIRA",
+        "CRM": 6157,
+        "ESPECIALIDADES": "CIRURGIA TORÁCICA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PROMÉDICA",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "UNIMED",
+            "POSTAL SAÚDE",
+            "CASSEB",
+            "CAMED",
+            "CASSI",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4659"
+    },
+    {
+        "SALAS": 406,
+        "MÉDICOS": "BRAULIO XAVIER DA SILVA PEREIRA NETO",
+        "CRM": 12819,
+        "ESPECIALIDADES": "CIRURGIA PEDIÁTRICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4609"
+    },
+    {
+        "SALAS": 406,
+        "MÉDICOS": "INDHIRA RIBEIRO ALMEIDA",
+        "CRM": 14638,
+        "ESPECIALIDADES": "PEDIATRIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4609"
+    },
+    {
+        "SALAS": 406,
+        "MÉDICOS": "JOSÉ LUIZ JUSTO COUTO",
+        "CRM": 4726,
+        "ESPECIALIDADES": "PEDIATRIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4609"
+    },
+    {
+        "SALAS": 407,
+        "MÉDICOS": "NORMAND ARAÚJO MOURA",
+        "CRM": 7497,
+        "ESPECIALIDADES": [
+            "CIRURGIA GERAL",
+            "CIRURGIA DO APARELHO DIGESTIVO"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "PETROBRAS"
+        ],
+        "TELEFONES": "2108-4827"
+    },
+    {
+        "SALAS": 407,
+        "MÉDICOS": "LUCIANO RAPOLD SOUZA",
+        "CRM": 12005,
+        "ESPECIALIDADES": "CIRURGIA CARDIÁCA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "CASSI"
+        ],
+        "TELEFONES": "2108-4827"
+    },
+    {
+        "SALAS": 407,
+        "MÉDICOS": "MARCOS ROBERTO ANDRADE COSTA BARROS",
+        "CRM": 11581,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4827"
+    },
+    {
+        "SALAS": 407,
+        "MÉDICOS": "ROBERTO CAMERA GESTEIRA",
+        "CRM": 10824,
+        "ESPECIALIDADES": [
+            "CIRURGIA GERAL",
+            "CIRURGIA DO APARELHO DIGESTIVO"
+        ],
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4827"
+    },
+    {
+        "SALAS": 407,
+        "MÉDICOS": "RODRIGO PINTO CARDOSO",
+        "CRM": 17516,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4827"
+    },
+    {
+        "SALAS": 409,
+        "MÉDICOS": "ALOISIO REIS CARNEIRO",
+        "CRM": 11406,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA JOELHO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "ASFEB",
+            "MEDISERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "CASSEB",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 409,
+        "MÉDICOS": "DANIEL VASCONCELOS CUNHA MARTINS",
+        "CRM": 22641,
+        "ESPECIALIDADES": "ORTOPEDIA INFANTIL E CIRURGIA DA PÉ E TORNOZELO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "ASFEB",
+            "MEDISERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "BANCO CENTRAL",
+            "FACHESF",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 409,
+        "MÉDICOS": "DANILO DE CASTRO BORBA",
+        "CRM": 26852,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA OMBRO E COTOVELO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "ASFEB",
+            "MEDISERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 409,
+        "MÉDICOS": "DAYAN JOSÉ DE OLIVEIRA ESTEVES",
+        "CRM": 13394,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COLUNA",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "ASFEB",
+            "MEDISERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108 4636"
+    },
+    {
+        "SALAS": 409,
+        "MÉDICOS": "HUMBERTO DE LIMA COSTA",
+        "CRM": 14663,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA QUADRIL",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "ASFEB",
+            "MEDISERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "SUL AMÉRICA",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 409,
+        "MÉDICOS": "STEPHANE MIRELLA COSTA ALVES ",
+        "CRM": 35373,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA PÉ E TORNOZELO",
+        "CONVÊNIOS": [
+            "SAÚDE CAIXA",
+            "ASFEB",
+            "MEDISERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 409,
+        "MÉDICOS": "ADELMO AUGUSTO MADEIRO ARCANJO SILVA ",
+        "CRM": 17531,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA QUADRIL",
+        "CONVÊNIOS": [
+            "AMIL",
+            "SAÚDE SAÚDE CAIXA",
+            "ASFEB",
+            "MEDISERVICE",
+            "CASSI",
+            "BRADESCO",
+            "CAMED",
+            "BANCO CENTRAL",
+            "FACHESF"
+        ],
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 409,
+        "MÉDICOS": "SERGIO MURILO DOS SANTOS ANDRADE",
+        "CRM": 15308,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COLUNA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4636"
+    },
+    {
+        "SALAS": 410,
+        "MÉDICOS": "ADELMO DE SOUZA MACHADO NETO",
+        "CRM": 8843,
+        "ESPECIALIDADES": "PNEUMOLOGIA E CLÍNICA MÉDICA",
+        "CONVÊNIOS": [
+            "AMIL",
+            "APUB",
+            "ASSEFAZ",
+            "BRADESCO",
+            "ASFEB",
+            "CASSEB",
+            "CASSI",
+            "PETROBRAS",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4833"
+    },
+    {
+        "SALAS": 410,
+        "MÉDICOS": "ALMERIO DE SOUZA MACHADO JÚNIOR",
+        "CRM": 8811,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": [
+            "APUB",
+            "ASFEB",
+            "ASSEFAZ",
+            "BRADESCO",
+            "CASSEB",
+            "CAMED",
+            "CASSI",
+            "GEAP",
+            "PETROBRAS",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4833"
+    },
+    {
+        "SALAS": 410,
+        "MÉDICOS": "TATIANA SENNA GALVAO NONATO ALVES",
+        "CRM": 9277,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": "PETROBRAS",
+        "TELEFONES": "2108-4833"
+    },
+    {
+        "SALAS": 411,
+        "MÉDICOS": "GLICIA ESTEVAM DE ABREU",
+        "CRM": 10352,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "CASSI"
+        ],
+        "TELEFONES": "2108-4670"
+    },
+    {
+        "SALAS": 411,
+        "MÉDICOS": "UBIRAJARA DE OLIVEIRA BARROSO JUNIOR",
+        "CRM": 11163,
+        "ESPECIALIDADES": "UROLOGIA PEDIÁTRICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4670"
+    },
+    {
+        "SALAS": 601,
+        "MÉDICOS": "MARCELO PORTUGAL DE SOUZA",
+        "CRM": 9629,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA/HEPATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4810"
+    },
+    {
+        "SALAS": 601,
+        "MÉDICOS": "ADRIANA RIBAS ANDRADE",
+        "CRM": 22787,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4810"
+    },
+    {
+        "SALAS": 601,
+        "MÉDICOS": "ANA ALMIRA CARNEIRO",
+        "CRM": 8742,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": "PETROBRÁS ",
+        "TELEFONES": "2108-4810"
+    },
+    {
+        "SALAS": 601,
+        "MÉDICOS": "ANTÔNIO RICARDO CARDIA FERRAZ DE ANDRADE",
+        "CRM": 16698,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA/HEPATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4810"
+    },
+    {
+        "SALAS": 601,
+        "MÉDICOS": "VINICIUS SANTOS NUNES",
+        "CRM": 22701,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA/HEPATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR ",
+        "TELEFONES": "2108-4810"
+    },
+    {
+        "SALAS": 501,
+        "MÉDICOS": "CAS - CLINICA DE ANESTESIA SALVADOR",
+        "CRM": "***",
+        "ESPECIALIDADES": "ANESTESIOLOGIA",
+        "CONVÊNIOS": "***",
+        "TELEFONES": "2108-4602"
+    },
+    {
+        "SALAS": 502,
+        "MÉDICOS": "SAMUEL RIBEIRO JUNCAL",
+        "CRM": 24379,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "SAÚDE CAIXA SAUDE",
+            "CASSIS",
+            "AMIL",
+            "PLANSERV",
+            "PETROBRAS",
+            "TRT5 SAÚDE SAÚDE",
+            "UNAFISCO",
+            "CASSI",
+            "UNIMED"
+        ],
+        "TELEFONES": "2108-4826"
+    },
+    {
+        "SALAS": 502,
+        "MÉDICOS": "MANOEL JUNCAL PAZOS",
+        "CRM": 3421,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "ACCEB",
+            "SINAN",
+            "AMBEPE"
+        ],
+        "TELEFONES": "2108-4826"
+    },
+    {
+        "SALAS": 503,
+        "MÉDICOS": "CAROLINA SOUZA SOUTO COSTA BRITTO",
+        "CRM": 14394,
+        "ESPECIALIDADES": "CIRURGIA DA PLÁSTICA",
+        "CONVÊNIOS": "BRADESCO",
+        "TELEFONES": "2108-4668"
+    },
+    {
+        "SALAS": 503,
+        "MÉDICOS": "PAULO PLESSIM DE ALMEIDA",
+        "CRM": 6693,
+        "ESPECIALIDADES": "CIRURGIA DA PLÁSTICA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "APUB",
+            "PETROBRÁS"
+        ],
+        "TELEFONES": "2108-4668"
+    },
+    {
+        "SALAS": 504,
+        "MÉDICOS": "EULER DE MEDEIROS AZARO FILHO",
+        "CRM": 8650,
+        "ESPECIALIDADES": [
+            "CIRURGIA GERAL",
+            "CIRURGIA DO APARELHO DIGESTIVO",
+            "COLOPROCTOLOGIA",
+            "CIRURGIA DA BARIÁTRICA"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4654"
+    },
+    {
+        "SALAS": 504,
+        "MÉDICOS": "MAYARA MARAUX MARANHÃO",
+        "CRM": 24516,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4654"
+    },
+    {
+        "SALAS": 504,
+        "MÉDICOS": "RENE MARIANO DE ALMEIDA",
+        "CRM": 5301,
+        "ESPECIALIDADES": [
+            "CIRURGIA GERAL",
+            "CIRURGIA DO APARELHO DIGESTIVO"
+        ],
+        "CONVÊNIOS": "PETROBRAS",
+        "TELEFONES": "2108-4654"
+    },
+    {
+        "SALAS": 504,
+        "MÉDICOS": "THAMY CRISTINE SANTANA MARQUES",
+        "CRM": 23806,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4654"
+    },
+    {
+        "SALAS": 504,
+        "MÉDICOS": "LINA MARIA GOES DE CODES ",
+        "CRM": 17194,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4654"
+    },
+    {
+        "SALAS": 505,
+        "MÉDICOS": "DANIEL FIGUEIREDO DE ALENCAR",
+        "CRM": 17941,
+        "ESPECIALIDADES": "ORTOPEDIA - CLÍNICA DA DOR",
+        "CONVÊNIOS": [
+            "AMIL",
+            "CASSEB",
+            "BRADESCO",
+            "SUL AMÉRICA EMPRESARIAL",
+            "MEDISERVICE",
+            "UNIÃO MÉDICA",
+            "ASEFAZ",
+            "PROSOCIAL",
+            "TRT5 SAÚDE5",
+            "UNIMED",
+            "PETROBRAS",
+            "FUSEX",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4894"
+    },
+    {
+        "SALAS": 505,
+        "MÉDICOS": "FABIO PORTUGAL TOURINHO",
+        "CRM": 12453,
+        "ESPECIALIDADES": "ORTOPEDIA GERAL",
+        "CONVÊNIOS": [
+            "AMIL",
+            "CASSEB",
+            "BRADESCO",
+            "SUL AMÉRICA EMPRESARIAL",
+            "MEDISERVICE",
+            "UNIÃO MÉDICA",
+            "ASEFAZ",
+            "PROSOCIAL",
+            "TRT5 SAÚDE5",
+            "UNIMED",
+            "PETROBRAS",
+            "FUSEX",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4894"
+    },
+    {
+        "SALAS": 505,
+        "MÉDICOS": "FERNANDO VITOR GAMA BORGES",
+        "CRM": 8244,
+        "ESPECIALIDADES": "ORTOPEDIA E TRAUMATOLOGIA",
+        "CONVÊNIOS": [
+            "AMIL",
+            "CASSEB",
+            "BRADESCO",
+            "SUL AMÉRICA EMPRESARIAL",
+            "MEDISERVICE",
+            "UNIÃO MÉDICA",
+            "ASEFAZ",
+            "PROSOCIAL",
+            "TRT5 SAÚDE5",
+            "UNIMED",
+            "PETROBRAS",
+            "FUSEX",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108-4894"
+    },
+    {
+        "SALAS": 505,
+        "MÉDICOS": "JOSÉ GILVAN LEITE SAMPAIO LANDIM",
+        "CRM": 26935,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COTOVELO E OMBRO",
+        "CONVÊNIOS": [
+            "AMIL",
+            "CASSEB",
+            "BRADESCO",
+            "SUL AMÉRICA EMPRESARIAL",
+            "MEDISERVICE",
+            "UNIÃO MÉDICA",
+            "ASEFAZ",
+            "PROSOCIAL",
+            "TRT5 SAÚDE5",
+            "UNIMED",
+            "PETROBRAS",
+            "FUSEX",
+            "SAÚDE CAIXA"
+        ],
+        "TELEFONES": "2108 4894"
+    },
+    {
+        "SALAS": 505,
+        "MÉDICOS": "STEPHANE MIRELLA COSTA ALVES",
+        "CRM": 31535,
+        "ESPECIALIDADES": "ORTOPEDIA E TRAUMATOLOGIA",
+        "CONVÊNIOS": [
+            "AMIL",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "PETROBRÁS",
+            "BRADESCO",
+            "SAÚDE CAIXA",
+            "UNIAOMEDICA",
+            "ASEFAZ",
+            "CASSI",
+            "CASSEB"
+        ],
+        "TELEFONES": "2108 4894"
+    },
+    {
+        "SALAS": 506,
+        "MÉDICOS": "CLARISMUNDO FRANCISCO PONTES FILHO",
+        "CRM": 4882,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "CASSI",
+            "ASFEB",
+            "SAÚDECAIXA",
+            "UNAFISCO",
+            "BANCO CENTRAL",
+            "UNIBANCO."
+        ],
+        "TELEFONES": "2108-4869"
+    },
+    {
+        "SALAS": 506,
+        "MÉDICOS": "DIOGO LEITAO GAMA",
+        "CRM": 25366,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO",
+            "PETROBRAS",
+            "MED SERVICE",
+            "SAÚDE CAIXA",
+            "CASSI."
+        ],
+        "TELEFONES": "2108-4869"
+    },
+    {
+        "SALAS": 507,
+        "MÉDICOS": "ANTÔNIO AUGUSTO BRITO XIMENES",
+        "CRM": 7028,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4836"
+    },
+    {
+        "SALAS": 507,
+        "MÉDICOS": "AUREA ANGELICA PASTE",
+        "CRM": 16425,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4836"
+    },
+    {
+        "SALAS": 507,
+        "MÉDICOS": "FABIO SOLANO DE FREITAS SOUZA",
+        "CRM": 15009,
+        "ESPECIALIDADES": "CIRURGIA CARDIÁCA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4836"
+    },
+    {
+        "SALAS": 507,
+        "MÉDICOS": "EDUARDO NOVAES DE CARVALHO",
+        "CRM": 10282,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4836"
+    },
+    {
+        "SALAS": 507,
+        "MÉDICOS": "MATEUS DOS SANTOS VIANA",
+        "CRM": 15898,
+        "ESPECIALIDADES": "CIRURGIA CARDIÁCA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4836"
+    },
+    {
+        "SALAS": 507,
+        "MÉDICOS": "VALDEMAR DE SOUZA OLIVEIRA JUNIOR",
+        "CRM": 11582,
+        "ESPECIALIDADES": "CIRURGIA CARDIÁCA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4836"
+    },
+    {
+        "SALAS": 507,
+        "MÉDICOS": "RICARDO SOBRAL DE CARVALHO",
+        "CRM": 16425,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4836"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "ADRIANO CHAVES DE ALMEIDA FILHO",
+        "CRM": 20636,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SEGUROS UNIMED",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE SAÚDE"
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "ALMIRO VIEIRA DE MELO FILHO",
+        "CRM": 4035,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SEGUROS UNIMED",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE SAÚDE"
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "ALMIRO VIEIRA DE MELO NETO",
+        "CRM": 15148,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SEGUROS UNIMED",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE SAÚDE"
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "CLARA SALLES FIGUEIREDO",
+        "CRM": 25223,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SEGUROS UNIMED",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE SAÚDE"
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "CRISTIANO GUEDES BEZERRA",
+        "CRM": 30407,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SEGUROS UNIMED",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE SAÚDE"
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "LUCAS HOLLANDA OLIVEIRA",
+        "CRM": 16565,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SEGUROS UNIMED",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE SAÚDE"
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "MARCUS VINICIUS SILVA FREIRE DE CARVALHO",
+        "CRM": 35184,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SEGUROS UNIMED",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE SAÚDE"
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "NATALIA DUARTE BARROSO",
+        "CRM": 28959,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SEGUROS UNIMED",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE SAÚDE"
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "PAULO BENIGNO PENA BATISTA",
+        "CRM": 9795,
+        "ESPECIALIDADES": "NEFROLOGIA",
+        "CONVÊNIOS": [
+            "CASSI",
+            "PETROBRÁS"
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "RODRIGO MOREL VIEIRA DE MELO",
+        "CRM": 19364,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 508,
+        "MÉDICOS": "TAINA TEIXEIRA VIEIRA",
+        "CRM": 26494,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": [
+            "PETROBRAS",
+            "SEGUROS UNIMED",
+            "SAÚDE CAIXA",
+            "SUL AMÉRICA",
+            "TRT5 SAÚDE SAÚDE."
+        ],
+        "TELEFONES": "2108-4926"
+    },
+    {
+        "SALAS": 509,
+        "MÉDICOS": "CARMEN DE CASTRO",
+        "CRM": 8340,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "AMIL",
+            "APUB",
+            "ASSESAZ",
+            "MEDIAL",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "PROSOCIAL",
+            "UNAFISCO",
+            "CAMED",
+            "CASSEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "GAMA",
+            "BRADESCOPOLO",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "UNIBANCO",
+            "EMBRATEL."
+        ],
+        "TELEFONES": "2108-4684"
+    },
+    {
+        "SALAS": 509,
+        "MÉDICOS": "CRISTINA FERNANDES NORONHA",
+        "CRM": 11896,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "CAMED",
+            "CASSEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "GAMA",
+            "BRADESCOPOLO",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "EMBRATEL",
+            "AMIL",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4684"
+    },
+    {
+        "SALAS": 509,
+        "MÉDICOS": "HAROLDO GONÇALVES FERNANDES",
+        "CRM": 8186,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "AMIL",
+            "APUB",
+            "ASSEFAZ",
+            "MEDIAL",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "PROSOCIAL",
+            "UNAFISCO",
+            "CAMED",
+            "CASSEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "GAMA",
+            "BRADESCOPOLO",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "UNIBANCO",
+            "EMBRATEL."
+        ],
+        "TELEFONES": "2108-4684"
+    },
+    {
+        "SALAS": 509,
+        "MÉDICOS": "PLACIDO NATANAEL DE LIMA FILHO",
+        "CRM": 8687,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "AMIL",
+            "APUB",
+            "ASSEFAZ",
+            "MEDIAL",
+            "MEDISERVICE",
+            "PETROBRAS",
+            "PROSOCIAL",
+            "UNAFISCO",
+            "CAMED",
+            "CASSEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "GAMA",
+            "BRADESCOPOLO",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "UNIBANCO",
+            "EMBRATEL."
+        ],
+        "TELEFONES": "2108-4684"
+    },
+    {
+        "SALAS": 509,
+        "MÉDICOS": "YASMYN SALOMAO CAMARA",
+        "CRM": 13687,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "CAMED",
+            "CASSEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "GAMA",
+            "BRADESCOPOLO",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "EMBRATEL",
+            "PETROBRAS",
+            "PROSOCIAL",
+            "AMIL"
+        ],
+        "TELEFONES": "2108-4684"
+    },
+    {
+        "SALAS": 510,
+        "MÉDICOS": "ADRIANO SANTANA FONSECA",
+        "CRM": 15400,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "AMIL",
+            "ASFEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "CAMED",
+            "PETROBRÁS"
+        ],
+        "TELEFONES": [
+            "2108-4802",
+            "2108-4803"
+        ]
+    },
+    {
+        "SALAS": 510,
+        "MÉDICOS": "ANDERSON CASTELO BRANCO",
+        "CRM": 15329,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "AMIL",
+            "ASFEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "CAMED",
+            "PETROBRÁS"
+        ],
+        "TELEFONES": [
+            "2108-4802",
+            "2108-4803"
+        ]
+    },
+    {
+        "SALAS": 510,
+        "MÉDICOS": "CAROLINA CINCURA BARRETO",
+        "CRM": 21198,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "AMIL",
+            "ASFEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "CAMED"
+        ],
+        "TELEFONES": [
+            "2108-4802",
+            "2108-4803"
+        ]
+    },
+    {
+        "SALAS": 510,
+        "MÉDICOS": "RAMIREZ RIBEIRO FIDELIS",
+        "CRM": 23868,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "AMIL",
+            "ASFEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "CAMED"
+        ],
+        "TELEFONES": [
+            "2108-4802",
+            "2108-4803"
+        ]
+    },
+    {
+        "SALAS": 510,
+        "MÉDICOS": "NATASHA MASCARENHAS BRAGA",
+        "CRM": 11797,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA PEDIATRA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "AMIL",
+            "ASFEB",
+            "CASSI",
+            "SAÚDE CAIXA",
+            "CAMED",
+            "PETROBRÁS"
+        ],
+        "TELEFONES": [
+            "2108-4802",
+            "2108-4803"
+        ]
+    },
+    {
+        "SALAS": 511,
+        "MÉDICOS": "FABRICIO MASCARENHAS DE OLIVEIRA",
+        "CRM": 16468,
+        "ESPECIALIDADES": "CIRURGIA VASCULAR",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4651"
+    },
+    {
+        "SALAS": 511,
+        "MÉDICOS": "JEOVANA FERREIRA BRANDAO",
+        "CRM": 12091,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4651"
+    },
+    {
+        "SALAS": 511,
+        "MÉDICOS": "RAYMUNDO PARANA FERREIRA FILHO",
+        "CRM": 8870,
+        "ESPECIALIDADES": "HEPATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4651"
+    },
+    {
+        "SALAS": 602,
+        "MÉDICOS": "LEANDRO BORBA MOREIRA",
+        "CRM": 22694,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": [
+            "CASSI",
+            "SUL AMÉRICA",
+            "AMIL",
+            "BRADESCO",
+            "CAIXA SAUDE",
+            "MEDIAL",
+            "MEDISERVICE",
+            "PETROBRAS"
+        ],
+        "TELEFONES": "2108-4725"
+    },
+    {
+        "SALAS": 602,
+        "MÉDICOS": "MARCOS GUSMAO MOREIRA",
+        "CRM": 5297,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": [
+            "CASSI",
+            "SUL AMÉRICA",
+            "AMIL",
+            "BRADESCO",
+            "PETROBRAS",
+            "SAÚDE CAIXA SAUDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4725"
+    },
+    {
+        "SALAS": 602,
+        "MÉDICOS": "PATRICIA LINS DA PALMA",
+        "CRM": 12220,
+        "ESPECIALIDADES": "NEUROLOGIA",
+        "CONVÊNIOS": [
+            "CASSI",
+            "SUL AMÉRICA",
+            "AMIL",
+            "BRADESCO",
+            "PETROBRAS",
+            "SAÚDE CAIXA SAUDE",
+            "MEDISERVICE"
+        ],
+        "TELEFONES": "2108-4725"
+    },
+    {
+        "SALAS": 602,
+        "MÉDICOS": "VITOR PEDREIRA BARRETO",
+        "CRM": 29899,
+        "ESPECIALIDADES": "NEURCIRURGIA",
+        "CONVÊNIOS": [
+            "MEDISERVICE",
+            "CASSEB",
+            "AMIL",
+            "SAÚDE CAIXA",
+            "CASSI",
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "PETROBRAS"
+        ],
+        "TELEFONES": "2108-4725"
+    },
+    {
+        "SALAS": 602,
+        "MÉDICOS": "PEDRO ROCHA KALLUF",
+        "CRM": 43073,
+        "ESPECIALIDADES": "NEURCIRURGIA",
+        "CONVÊNIOS": [
+            "CASSI",
+            "SUL AMÉRICA",
+            "AMIL",
+            "BRADESCO",
+            "CAIXA SAUDE",
+            "MEDISERVICE",
+            "PETROBRAS"
+        ],
+        "TELEFONES": "2108-4725"
+    },
+    {
+        "SALAS": 602,
+        "MÉDICOS": "CARLOS ALBERTO ALMEIDA DE ASSUNÇÃO FILHO ",
+        "CRM": 20482,
+        "ESPECIALIDADES": "ORTOPEDIA",
+        "CONVÊNIOS": [
+            "CASSI",
+            "SUL AMÉRICA",
+            "AMIL",
+            "BRADESCO",
+            "SAÚDE CAIXA SAUDE",
+            "MEDISERVICE",
+            "PETROBRAS"
+        ],
+        "TELEFONES": "2108-4725"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "ALEXANDRÉ DRAYTON MAIA BARROS",
+        "CRM": 17744,
+        "ESPECIALIDADES": "NEURORRADIOLOGIA INTERVENCIONISTA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "AMANDA DE LIRA SILVESTRE AZEVEDO",
+        "CRM": 37339,
+        "ESPECIALIDADES": "NEUROLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "CARLOS ANTÔNIO GUIMARAES BASTOS",
+        "CRM": 8769,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "CARLOS EDUARDO ROMEU DE ALMEIDA",
+        "CRM": 21678,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": "BRADESCO",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "CAROLINA SALLES DE ANDRADE CARRERA",
+        "CRM": 26828,
+        "ESPECIALIDADES": "NEUROLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "DIOGO MARCOS ALMEIDA",
+        "CRM": 25266,
+        "ESPECIALIDADES": "NEUROLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "GUILLERMO FERNANDEZ SANTAMARIA",
+        "CRM": 15777,
+        "ESPECIALIDADES": "NEURORRADIOLOGIA INTERVENCIONISTA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "JAQUISSON DE DEUS GUIMARAES FILHO",
+        "CRM": 20158,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": "BRADESCO",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "JORGE LUIS MARQUES PONTE",
+        "CRM": 21541,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": "BRADESCO",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "JULES CARLOS DOURADO",
+        "CRM": 21542,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": "BRADESCO",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "LUCAS CHAVES LELIS",
+        "CRM": 20304,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": "BRADESCO",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "LUCAS GAMA MASCARENHAS",
+        "CRM": 22220,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": "BRADESCO",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "MARCELO DE AZEVEDO SILVA FILHO",
+        "CRM": 27397,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": "BRADESCO",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "MARCO HELENO CUNHA NASCIMENTO",
+        "CRM": 11980,
+        "ESPECIALIDADES": "NEUROCIRURGIA E NEURORRADIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "RICARDO BRITTO COTIAS",
+        "CRM": 15388,
+        "ESPECIALIDADES": "ORTOPEDIA - CIRURGIA DA COLUNA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "SHEILLA MACHADO SANTOS",
+        "CRM": 26406,
+        "ESPECIALIDADES": "NEUROLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 603,
+        "MÉDICOS": "TANCREDO ALCÂNTARA FERREIRA JUNIOR",
+        "CRM": 28188,
+        "ESPECIALIDADES": "NEUROCIRURGIA",
+        "CONVÊNIOS": "BRADESCO",
+        "TELEFONES": "2108-4643"
+    },
+    {
+        "SALAS": 604,
+        "MÉDICOS": "CECILIA ALMEIDA ARAÚJO",
+        "CRM": 22866,
+        "ESPECIALIDADES": "NEUROPEDIATRIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108 4876"
+    },
+    {
+        "SALAS": 604,
+        "MÉDICOS": "CIBELE DANTAS FERREIRA",
+        "CRM": 16316,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA PEDIÁTRICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4876"
+    },
+    {
+        "SALAS": 604,
+        "MÉDICOS": "FABIO SILVEIRA MATOS",
+        "CRM": 19363,
+        "ESPECIALIDADES": "ORTOPEDIA PEDIÁTRICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4876"
+    },
+    {
+        "SALAS": 604,
+        "MÉDICOS": "ROMILDA CASTRO DE ANDRADE CAIRO",
+        "CRM": 9056,
+        "ESPECIALIDADES": "GASTROENTEROLOGIA PEDIÁTRICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4876"
+    },
+    {
+        "SALAS": 606,
+        "MÉDICOS": "ALINE DE CASTRO VIANA",
+        "CRM": 14139,
+        "ESPECIALIDADES": [
+            "MASTOLOGIA",
+            "CIRURGIA DA GERAL"
+        ],
+        "CONVÊNIOS": [
+            "Bradesco",
+            "SUL AMÉRICA",
+            "Petrobras",
+            "Amil",
+            "Unimed",
+            "Promédica",
+            "Saúde SAÚDE CAIXA",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "UNAFISCO",
+            "Alianz",
+            "Assefaz",
+            "Casseb",
+            "Fachesf",
+            "Golden",
+            "Merdiserve",
+            "Omint",
+            "Porto Seguro",
+            "Prosocial"
+        ],
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 606,
+        "MÉDICOS": "ANA CLAUDIA IMBASSAHY DE SA BITTENCOURT CAMARA",
+        "CRM": 11975,
+        "ESPECIALIDADES": [
+            "MASTOLOGIA",
+            "CIRURGIA DA GERAL"
+        ],
+        "CONVÊNIOS": [
+            "Bradesco",
+            "SUL AMÉRICA",
+            "Petrobras",
+            "Amil",
+            "Unimed",
+            "Promédica",
+            "Saúde SAÚDE CAIXA",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "UNAFISCO",
+            "Alianz",
+            "Assefaz",
+            "Casseb",
+            "Fachesf",
+            "Golden",
+            "Merdiserve",
+            "Omint",
+            "Porto Seguro",
+            "Prosocial"
+        ],
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 606,
+        "MÉDICOS": "CLAUDIA ALMEIDA DE ARAÚJO GOES",
+        "CRM": 11571,
+        "ESPECIALIDADES": [
+            "MASTOLOGIA",
+            "CIRURGIA DA GERAL"
+        ],
+        "CONVÊNIOS": [
+            "Bradesco",
+            "SUL AMÉRICA",
+            "Petrobras",
+            "Amil",
+            "Unimed",
+            "Promédica",
+            "Saúde SAÚDE CAIXA",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "UNAFISCO",
+            "Alianz",
+            "Assefaz",
+            "Casseb",
+            "Fachesf",
+            "Golden",
+            "Merdiserve",
+            "Omint",
+            "Porto Seguro",
+            "Prosocial"
+        ],
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 606,
+        "MÉDICOS": "FLÁVIA BASTOS DE MORAES REGO",
+        "CRM": 14211,
+        "ESPECIALIDADES": [
+            "MASTOLOGIA",
+            "CIRURGIA DA GERAL"
+        ],
+        "CONVÊNIOS": [
+            "Bradesco",
+            "SUL AMÉRICA",
+            "Petrobras",
+            "Amil",
+            "Unimed",
+            "Promédica",
+            "Saúde SAÚDE CAIXA",
+            "ASFEB",
+            "TRT5 SAÚDE",
+            "UNAFISCO",
+            "Alianz",
+            "Assefaz",
+            "Casseb",
+            "Fachesf",
+            "Golden",
+            "Merdiserve",
+            "Omint",
+            "Porto Seguro",
+            "Prosocial"
+        ],
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 606,
+        "MÉDICOS": "GUSTAVO LUIZ BEHRENS PINTO",
+        "CRM": 25110,
+        "ESPECIALIDADES": "REUMATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 607,
+        "MÉDICOS": "ALESSANDRO TUNES BARROS",
+        "CRM": 13306,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "Asfeb",
+            "Assefaz",
+            "Gama",
+            "Petrobras",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4638"
+    },
+    {
+        "SALAS": 607,
+        "MÉDICOS": "DARIO OLIVEIRA LOPES JUNIOR",
+        "CRM": 10273,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "Asfeb",
+            "Assefaz",
+            "Gama",
+            "Petrobras",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4638"
+    },
+    {
+        "SALAS": 607,
+        "MÉDICOS": "EDUARDO BARBOSA DE SOUZA",
+        "CRM": 8175,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "Asfeb",
+            "Assefaz",
+            "Gama",
+            "Petrobras",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4638"
+    },
+    {
+        "SALAS": 607,
+        "MÉDICOS": "HELISSANDRO ANDRADE COELHO",
+        "CRM": 15264,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "Asfeb",
+            "Assefaz",
+            "Gama",
+            "Petrobras",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4638"
+    },
+    {
+        "SALAS": 607,
+        "MÉDICOS": "RAISSA DE CARVALHO BORGES",
+        "CRM": 28762,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "Asfeb",
+            "Assefaz",
+            "Gama",
+            "Petrobras",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4638"
+    },
+    {
+        "SALAS": 607,
+        "MÉDICOS": "FERNANDA CARNEIRO CORUJEIRA DE BRITTO",
+        "CRM": 21208,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "Asfeb",
+            "Assefaz",
+            "Gama",
+            "Petrobras",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4638"
+    },
+    {
+        "SALAS": 607,
+        "MÉDICOS": "DIEGO GUZMAN RODRIGUES",
+        "CRM": 27211,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "Asfeb",
+            "Assefaz",
+            "Gama",
+            "Petrobras",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4638"
+    },
+    {
+        "SALAS": 607,
+        "MÉDICOS": "ERICA FERREIRA DO NASCIMENTO RODRIGUES",
+        "CRM": 26555,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "Asfeb",
+            "Assefaz",
+            "Gama",
+            "Petrobras",
+            "TRT5 SAÚDE"
+        ],
+        "TELEFONES": "2108-4638"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "ANDERSON CARVALHO SANTOS",
+        "CRM": 19653,
+        "ESPECIALIDADES": "CIRURGIA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "Bradesco",
+            "Cassi",
+            "SUL AMÉRICA (Santander)",
+            "Golden Cross Especial",
+            "SAÚDE CAIXA",
+            "ProSocial",
+            "Planassiste",
+            "Asfeb",
+            "TRT5 SAÚDE5",
+            "Amil"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "DANIEL FONSECA ROHRS",
+        "CRM": 21916,
+        "ESPECIALIDADES": [
+            "CIRURGIA GERAL",
+            "CIRURGIA DO APARELHO DIGESTIVO"
+        ],
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "EMERSON LUIS GAMA PRISCO",
+        "CRM": 17275,
+        "ESPECIALIDADES": "CIRURGIA ONCOLÓGICA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "JOABE DE OLIVEIRA CARNEIRO",
+        "CRM": 17642,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "CASSI",
+            "PETROBRÁS",
+            "TRT5 SAÚDE5",
+            "SAÚDE CAIXA",
+            "PLAN ASSISTE",
+            "CASSEB"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "LUCAS TEIXEIRA E AGUIAR BATISTA",
+        "CRM": 14227,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "CASSI",
+            "PETROBRÁS",
+            "TRT5 SAÚDE5",
+            "SAÚDE CAIXA",
+            "PLAN ASSISTE",
+            "CASSEB"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "LUIZ VIANNA DE OLIVEIRA",
+        "CRM": 16513,
+        "ESPECIALIDADES": [
+            "CIRURGIA GERAL",
+            "CIRURGIA DO APARELHO DIGESTIVO"
+        ],
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "PAULO FREDERICO OLIVEIRA COSTA",
+        "CRM": 17868,
+        "ESPECIALIDADES": "COLOPROCTOLOGIA",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "PAULO SAMPAIO FURTADO",
+        "CRM": 13186,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "CASSI",
+            "PETROBRÁS",
+            "TRT5 SAÚDE5",
+            "SAÚDE CAIXA",
+            "PLAN ASSISTE",
+            "CASSEB"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "RAFAEL ROCHA TOURINHO BARBOSA",
+        "CRM": 22670,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "CASSI",
+            "PETROBRÁS",
+            "TRT5 SAÚDE5",
+            "SAÚDE CAIXA",
+            "PLAN ASSISTE",
+            "CASSEB"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "ROMEU MAGNO BAPTISTA NETO",
+        "CRM": 10446,
+        "ESPECIALIDADES": "UROLOGIA",
+        "CONVÊNIOS": [
+            "BRADESCO",
+            "SUL AMÉRICA",
+            "CASSI",
+            "PETROBRÁS",
+            "TRT5 SAÚDE5",
+            "SAÚDE CAIXA",
+            "PLAN ASSISTE",
+            "CASSEB"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 608,
+        "MÉDICOS": "LUIZ FERNANDO BARRETO SAMPAIO",
+        "CRM": 17949,
+        "ESPECIALIDADES": "CIRURGIA DO APARELHO DIGESTIVO",
+        "CONVÊNIOS": [
+            "SUL AMÉRICA",
+            "BRADESCO"
+        ],
+        "TELEFONES": "2108-4720"
+    },
+    {
+        "SALAS": 609,
+        "MÉDICOS": "JOSÉ CARLOS JESUS GASPAR",
+        "CRM": 5339,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "CASSI",
+            "PETROBRÁS AMS",
+            "BRADESCO TOP NACIONAL"
+        ],
+        "TELEFONES": "2108-4716"
+    },
+    {
+        "SALAS": 609,
+        "MÉDICOS": "REBECA SANTOS LOPES",
+        "CRM": 22206,
+        "ESPECIALIDADES": [
+            "GINECOLOGIA",
+            "OBSTETRÍCIA"
+        ],
+        "CONVÊNIOS": [
+            "CASSI",
+            "PETROBRÁS AMS",
+            "BRADESCO TOP NACIONAL"
+        ],
+        "TELEFONES": "2108-4716"
+    },
+    {
+        "SALAS": 610,
+        "MÉDICOS": "EDMUNDO JOSÉ NASSRI CAMARA",
+        "CRM": 4646,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4641"
+    },
+    {
+        "SALAS": 610,
+        "MÉDICOS": "FABIO VILAS BOAS",
+        "CRM": 11373,
+        "ESPECIALIDADES": "CARDIOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4641"
+    },
+    {
+        "SALAS": 610,
+        "MÉDICOS": "JACKSON NOYA COSTA LIMA",
+        "CRM": 4642,
+        "ESPECIALIDADES": "CLÍNICA MÉDICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4641"
+    },
+    {
+        "SALAS": 610,
+        "MÉDICOS": "JORGE LUIZ PEREIRA E SILVA",
+        "CRM": 5927,
+        "ESPECIALIDADES": "PNEUMOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4641"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "ANA TERESA AMOEDO MARTINEZ",
+        "CRM": 11237,
+        "ESPECIALIDADES": "REUMATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "ELDSAMIRA MASCARENHAS SCHETTINI SOBRINHO",
+        "CRM": 16324,
+        "ESPECIALIDADES": "ONCOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "LEONARDO FERNANDES CANEDO",
+        "CRM": 16800,
+        "ESPECIALIDADES": "CIRURGIA ONCOLÓGICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "LÍVIA MARIA QUERINO SILVA ANDRADE",
+        "CRM": 14413,
+        "ESPECIALIDADES": "ONCOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "MARIA DA GLORIA BOMFIM ARRUDA",
+        "CRM": 6661,
+        "ESPECIALIDADES": "HEMATOLOGIA",
+        "CONVÊNIOS": "PARTICULAR/ PETROBRÁS",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "PAULO HENRIQUE ZANVETTOR",
+        "CRM": 14278,
+        "ESPECIALIDADES": "CIRURGIA ONCOLÓGICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "RENATA COSTA CANGUSSU",
+        "CRM": 15149,
+        "ESPECIALIDADES": "ONCOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "RODRIGO ANTÔNIO VIEIRA GUEDES",
+        "CRM": 17111,
+        "ESPECIALIDADES": "ONCOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "RODRIGO SANTA CRUZ GUINDALINI",
+        "CRM": 24186,
+        "ESPECIALIDADES": "ONCOLOGIA E ONCOGENETICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 611,
+        "MÉDICOS": "VINICIUS CARRERA SOUZA",
+        "CRM": 17258,
+        "ESPECIALIDADES": "ONCOLOGIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4660"
+    },
+    {
+        "SALAS": 707,
+        "MÉDICOS": "FERNANDA AZEVEDO JESUINO",
+        "CRM": 18699,
+        "ESPECIALIDADES": [
+            "PEDIATRIA",
+            "NEONATOLOGIA"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4814"
+    },
+    {
+        "SALAS": 707,
+        "MÉDICOS": "KATIACI JANICE CHAVES ARAÚJO",
+        "CRM": 9351,
+        "ESPECIALIDADES": [
+            "PEDIATRIA",
+            "NEONATOLOGIA"
+        ],
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4814"
+    },
+    {
+        "SALAS": 707,
+        "MÉDICOS": "RACHEL SILVANY QUADROS GUIMARAES",
+        "CRM": 20123,
+        "ESPECIALIDADES": "NEUROPEDIATRIA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4814"
+    },
+    {
+        "SALAS": 707,
+        "MÉDICOS": "RENATA VILLAS BOAS ANDRADE LIMA",
+        "CRM": 16209,
+        "ESPECIALIDADES": "ENDOCRINOLOGIA PEDIÁTRICA",
+        "CONVÊNIOS": "PARTICULAR",
+        "TELEFONES": "2108-4814"
+    },
+    {
+        "SALAS": 709,
+        "MÉDICOS": "AMANDA CANARIO ANDRADE AZEVEDO",
+        "CRM": 20505,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA PEDIATRA ",
+        "CONVÊNIOS": [
+            "MEDISERVICE",
+            "ASFEB",
+            "FACHESF",
+            "CASSEB",
+            "AMIL",
+            "PORTO SEGURO",
+            "APUB",
+            "BANCO CENTRAL",
+            "GAMA",
+            "SAÚDE CAIXA",
+            "CORREIOS",
+            "PETROBRÁS",
+            "PETROBRÁS DISTRIBUIDORA",
+            "CASSI",
+            "BRADESCO",
+            "OMINT",
+            "TRT5 SAÚDE",
+            "ASSEFAZ",
+            "PROMEDICA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4616"
+    },
+    {
+        "SALAS": 709,
+        "MÉDICOS": "CAMILA ALVES COSTA SILVA",
+        "CRM": 32650,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "MEDISERVICE",
+            "ASFEB",
+            "FACHESF",
+            "CASSEB",
+            "AMIL",
+            "PORTO SEGURO",
+            "APUB",
+            "BANCO CENTRAL",
+            "GAMA",
+            "SAÚDE CAIXA",
+            "CORREIOS",
+            "PETROBRÁS",
+            "PETROBRÁS DISTRIBUIDORA",
+            "CASSI",
+            "BRADESCO",
+            "OMINT",
+            "TRT5 SAÚDE",
+            "ASSEFAZ",
+            "PROMEDICA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4616"
+    },
+    {
+        "SALAS": 709,
+        "MÉDICOS": "GUSTAVO BARRETO DA CUNHA",
+        "CRM": 23839,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA E CIRURGIA DA DE CABEÇA E PESCOÇO",
+        "CONVÊNIOS": [
+            "MEDISERVICE",
+            "ASFEB",
+            "FACHESF",
+            "CASSEB",
+            "AMIL",
+            "PORTO SEGURO",
+            "APUB",
+            "BANCO CENTRAL",
+            "GAMA",
+            "SAÚDE CAIXA",
+            "CORREIOS",
+            "PETROBRÁS",
+            "PETROBRÁS DISTRIBUIDORA",
+            "CASSI",
+            "BRADESCO",
+            "OMINT",
+            "TRT5 SAÚDE",
+            "ASSEFAZ",
+            "PROMEDICA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4616"
+    },
+    {
+        "SALAS": 709,
+        "MÉDICOS": "ISADORA ARAGAO SILVA TRABUCO",
+        "CRM": 30878,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "MEDISERVICE",
+            "ASFEB",
+            "FACHESF",
+            "CASSEB",
+            "AMIL",
+            "PORTO SEGURO",
+            "APUB",
+            "BANCO CENTRAL",
+            "GAMA",
+            "SAÚDE CAIXA",
+            "CORREIOS",
+            "PETROBRÁS",
+            "PETROBRÁS DISTRIBUIDORA",
+            "CASSI",
+            "BRADESCO",
+            "OMINT",
+            "TRT5 SAÚDE",
+            "ASSEFAZ",
+            "PROMEDICA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4616"
+    },
+    {
+        "SALAS": 709,
+        "MÉDICOS": "JOSÉ SANTOS CRUZ DE ANDRADE",
+        "CRM": 22706,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "MEDISERVICE",
+            "ASFEB",
+            "FACHESF",
+            "CASSEB",
+            "AMIL",
+            "PORTO SEGURO",
+            "APUB",
+            "BANCO CENTRAL",
+            "GAMA",
+            "SAÚDE CAIXA",
+            "CORREIOS",
+            "PETROBRÁS",
+            "PETROBRÁS DISTRIBUIDORA",
+            "CASSI",
+            "BRADESCO",
+            "OMINT",
+            "TRT5 SAÚDE",
+            "ASSEFAZ",
+            "PROMEDICA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4616"
+    },
+    {
+        "SALAS": 709,
+        "MÉDICOS": "MARIA CECILIA SODRE RAMOS DE SOUZA XIMENES DO PRADO",
+        "CRM": 23830,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "MEDISERVICE",
+            "ASFEB",
+            "FACHESF",
+            "CASSEB",
+            "AMIL",
+            "PORTO SEGURO",
+            "APUB",
+            "BANCO CENTRAL",
+            "GAMA",
+            "SAÚDE CAIXA",
+            "CORREIOS",
+            "PETROBRÁS",
+            "PETROBRÁS DISTRIBUIDORA",
+            "CASSI",
+            "BRADESCO",
+            "OMINT",
+            "TRT5 SAÚDE",
+            "ASSEFAZ",
+            "PROMEDICA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4616"
+    },
+    {
+        "SALAS": 709,
+        "MÉDICOS": "NILVANO ALVES DE ANDRADE",
+        "CRM": 7942,
+        "ESPECIALIDADES": "OTORRINOLARINGOGIA",
+        "CONVÊNIOS": [
+            "MEDISERVICE",
+            "ASFEB",
+            "FACHESF",
+            "CASSEB",
+            "AMIL",
+            "PORTO SEGURO",
+            "APUB",
+            "BANCO CENTRAL",
+            "GAMA",
+            "SAÚDE CAIXA",
+            "CORREIOS",
+            "PETROBRÁS",
+            "PETROBRÁS DISTRIBUIDORA",
+            "CASSI",
+            "BRADESCO",
+            "OMINT",
+            "TRT5 SAÚDE",
+            "ASSEFAZ",
+            "PROMEDICA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4616"
+    },
+    {
+        "SALAS": 709,
+        "MÉDICOS": "MARIANA MATOS DE ALMEIDA",
+        "CRM": 28134,
+        "ESPECIALIDADES": "OTORRINOLARINGOLOGIA",
+        "CONVÊNIOS": [
+            "MEDISERVICE",
+            "ASFEB",
+            "FACHESF",
+            "CASSEB",
+            "AMIL",
+            "PORTO SEGURO",
+            "APUB",
+            "BANCO CENTRAL",
+            "GAMA",
+            "SAÚDE CAIXA",
+            "CORREIOS",
+            "PETROBRÁS",
+            "PETROBRÁS DISTRIBUIDORA",
+            "CASSI",
+            "BRADESCO",
+            "OMINT",
+            "TRT5 SAÚDE",
+            "ASSEFAZ",
+            "PROMEDICA",
+            "SUL AMÉRICA"
+        ],
+        "TELEFONES": "2108-4616"
+    }
+]
